@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -15,7 +15,7 @@
   },
   "20210404": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -29,7 +29,7 @@
   },
   "20210411": {
     "count": 8,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -42,7 +42,7 @@
   },
   "20210418": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -56,7 +56,7 @@
   },
   "20210425": {
     "count": 8,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -69,7 +69,7 @@
   },
   "20210502": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -83,7 +83,7 @@
   },
   "20210509": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -97,7 +97,7 @@
   },
   "20210516": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -111,7 +111,7 @@
   },
   "20210523": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -125,7 +125,7 @@
   },
   "20210530": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -140,7 +140,7 @@
   },
   "20210606": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -155,7 +155,7 @@
   },
   "20210613": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -170,7 +170,7 @@
   },
   "20210620": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -185,7 +185,7 @@
   },
   "20210627": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -200,7 +200,7 @@
   },
   "20210704": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -215,7 +215,7 @@
   },
   "20210711": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -230,7 +230,7 @@
   },
   "20210718": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -245,7 +245,7 @@
   },
   "20210725": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -260,7 +260,7 @@
   },
   "20210801": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -274,7 +274,7 @@
   },
   "20210808": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -288,7 +288,7 @@
   },
   "20210815": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -302,7 +302,7 @@
   },
   "20210822": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",
@@ -316,7 +316,7 @@
   },
   "20210829": {
     "count": 8,
-    "data": [
+    "symbols": [
       "DOT",
       "FLOW",
       "GRT",
@@ -329,7 +329,7 @@
   },
   "20210905": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BAL",
       "DOT",
       "FLOW",

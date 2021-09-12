@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -11,7 +11,7 @@
   },
   "20210404": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -21,7 +21,7 @@
   },
   "20210411": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -31,7 +31,7 @@
   },
   "20210418": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -41,7 +41,7 @@
   },
   "20210425": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -51,7 +51,7 @@
   },
   "20210502": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -61,7 +61,7 @@
   },
   "20210509": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -71,7 +71,7 @@
   },
   "20210516": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -81,7 +81,7 @@
   },
   "20210523": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -91,7 +91,7 @@
   },
   "20210530": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -101,7 +101,7 @@
   },
   "20210606": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -111,7 +111,7 @@
   },
   "20210613": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -121,7 +121,7 @@
   },
   "20210620": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -131,7 +131,7 @@
   },
   "20210627": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -141,7 +141,7 @@
   },
   "20210704": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -151,7 +151,7 @@
   },
   "20210711": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -161,7 +161,7 @@
   },
   "20210718": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -171,7 +171,7 @@
   },
   "20210725": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -181,7 +181,7 @@
   },
   "20210801": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -191,7 +191,7 @@
   },
   "20210808": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -201,7 +201,7 @@
   },
   "20210815": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -211,7 +211,7 @@
   },
   "20210822": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -221,7 +221,7 @@
   },
   "20210829": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",
@@ -231,7 +231,7 @@
   },
   "20210905": {
     "count": 5,
-    "data": [
+    "symbols": [
       "BTC",
       "ETH",
       "FIL",

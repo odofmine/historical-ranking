@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 25,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "AKRO",
@@ -31,7 +31,7 @@
   },
   "20210404": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -59,7 +59,7 @@
   },
   "20210411": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -87,7 +87,7 @@
   },
   "20210418": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -116,7 +116,7 @@
   },
   "20210425": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -144,7 +144,7 @@
   },
   "20210502": {
     "count": 22,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -171,7 +171,7 @@
   },
   "20210509": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -199,7 +199,7 @@
   },
   "20210516": {
     "count": 22,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -226,7 +226,7 @@
   },
   "20210523": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -254,7 +254,7 @@
   },
   "20210530": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -283,7 +283,7 @@
   },
   "20210606": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -312,7 +312,7 @@
   },
   "20210613": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -341,7 +341,7 @@
   },
   "20210620": {
     "count": 25,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -371,7 +371,7 @@
   },
   "20210627": {
     "count": 25,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -401,7 +401,7 @@
   },
   "20210704": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -430,7 +430,7 @@
   },
   "20210711": {
     "count": 25,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -460,7 +460,7 @@
   },
   "20210718": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -489,7 +489,7 @@
   },
   "20210725": {
     "count": 25,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -519,7 +519,7 @@
   },
   "20210801": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -547,7 +547,7 @@
   },
   "20210808": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -576,7 +576,7 @@
   },
   "20210815": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -605,7 +605,7 @@
   },
   "20210822": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -634,7 +634,7 @@
   },
   "20210829": {
     "count": 23,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",
@@ -662,7 +662,7 @@
   },
   "20210905": {
     "count": 24,
-    "data": [
+    "symbols": [
       "1INCH",
       "AAVE",
       "ALPHA",

@@ -1,7 +1,7 @@
 {
   "20210411": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -18,7 +18,7 @@
   },
   "20210418": {
     "count": 11,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -34,7 +34,7 @@
   },
   "20210425": {
     "count": 11,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -50,7 +50,7 @@
   },
   "20210502": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -67,7 +67,7 @@
   },
   "20210509": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -84,7 +84,7 @@
   },
   "20210516": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -101,7 +101,7 @@
   },
   "20210523": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -118,7 +118,7 @@
   },
   "20210530": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -135,7 +135,7 @@
   },
   "20210606": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -152,7 +152,7 @@
   },
   "20210613": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -169,7 +169,7 @@
   },
   "20210620": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -186,7 +186,7 @@
   },
   "20210627": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -203,7 +203,7 @@
   },
   "20210704": {
     "count": 11,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -219,7 +219,7 @@
   },
   "20210711": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -237,7 +237,7 @@
   },
   "20210718": {
     "count": 11,
-    "data": [
+    "symbols": [
       "ALGO",
       "ATOM",
       "CEL",
@@ -253,7 +253,7 @@
   },
   "20210725": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -271,7 +271,7 @@
   },
   "20210801": {
     "count": 12,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -288,7 +288,7 @@
   },
   "20210808": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -306,7 +306,7 @@
   },
   "20210815": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -324,7 +324,7 @@
   },
   "20210822": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -342,7 +342,7 @@
   },
   "20210829": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",
@@ -360,7 +360,7 @@
   },
   "20210905": {
     "count": 13,
-    "data": [
+    "symbols": [
       "ALGO",
       "ALICE",
       "ATOM",

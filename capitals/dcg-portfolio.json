@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -22,7 +22,7 @@
   },
   "20210404": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -44,7 +44,7 @@
   },
   "20210411": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -66,7 +66,7 @@
   },
   "20210418": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -88,7 +88,7 @@
   },
   "20210425": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -110,7 +110,7 @@
   },
   "20210502": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -132,7 +132,7 @@
   },
   "20210509": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -154,7 +154,7 @@
   },
   "20210516": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -176,7 +176,7 @@
   },
   "20210523": {
     "count": 17,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -198,7 +198,7 @@
   },
   "20210530": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -219,7 +219,7 @@
   },
   "20210606": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -240,7 +240,7 @@
   },
   "20210613": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -261,7 +261,7 @@
   },
   "20210620": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -282,7 +282,7 @@
   },
   "20210627": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -303,7 +303,7 @@
   },
   "20210704": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -324,7 +324,7 @@
   },
   "20210711": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -345,7 +345,7 @@
   },
   "20210718": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -366,7 +366,7 @@
   },
   "20210725": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -387,7 +387,7 @@
   },
   "20210801": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -408,7 +408,7 @@
   },
   "20210808": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -429,7 +429,7 @@
   },
   "20210815": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -450,7 +450,7 @@
   },
   "20210822": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -471,7 +471,7 @@
   },
   "20210829": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",
@@ -492,7 +492,7 @@
   },
   "20210905": {
     "count": 16,
-    "data": [
+    "symbols": [
       "BAT",
       "BTC",
       "CVC",

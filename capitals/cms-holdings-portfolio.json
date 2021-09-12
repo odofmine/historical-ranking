@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -17,7 +17,7 @@
   },
   "20210404": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -32,7 +32,7 @@
   },
   "20210411": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -47,7 +47,7 @@
   },
   "20210418": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -62,7 +62,7 @@
   },
   "20210425": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -78,7 +78,7 @@
   },
   "20210502": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -94,7 +94,7 @@
   },
   "20210509": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -110,7 +110,7 @@
   },
   "20210516": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -126,7 +126,7 @@
   },
   "20210523": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -142,7 +142,7 @@
   },
   "20210530": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -159,7 +159,7 @@
   },
   "20210606": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -176,7 +176,7 @@
   },
   "20210613": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -193,7 +193,7 @@
   },
   "20210620": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -210,7 +210,7 @@
   },
   "20210627": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -227,7 +227,7 @@
   },
   "20210704": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -243,7 +243,7 @@
   },
   "20210711": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -260,7 +260,7 @@
   },
   "20210718": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -276,7 +276,7 @@
   },
   "20210725": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -293,7 +293,7 @@
   },
   "20210801": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -308,7 +308,7 @@
   },
   "20210808": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -325,7 +325,7 @@
   },
   "20210815": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -342,7 +342,7 @@
   },
   "20210822": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -359,7 +359,7 @@
   },
   "20210829": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",
@@ -376,7 +376,7 @@
   },
   "20210905": {
     "count": 12,
-    "data": [
+    "symbols": [
       "AVAX",
       "BTC",
       "CKB",

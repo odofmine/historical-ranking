@@ -1,7 +1,7 @@
 {
   "20210124": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -21,7 +21,7 @@
   },
   "20210131": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -41,7 +41,7 @@
   },
   "20210207": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -61,7 +61,7 @@
   },
   "20210214": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -81,7 +81,7 @@
   },
   "20210221": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -101,7 +101,7 @@
   },
   "20210228": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -121,7 +121,7 @@
   },
   "20210307": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -141,7 +141,7 @@
   },
   "20210314": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -161,7 +161,7 @@
   },
   "20210321": {
     "count": 15,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -181,7 +181,7 @@
   },
   "20210328": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -203,7 +203,7 @@
   },
   "20210404": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -225,7 +225,7 @@
   },
   "20210411": {
     "count": 16,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -246,7 +246,7 @@
   },
   "20210418": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -268,7 +268,7 @@
   },
   "20210425": {
     "count": 16,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -289,7 +289,7 @@
   },
   "20210502": {
     "count": 16,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -310,7 +310,7 @@
   },
   "20210509": {
     "count": 16,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -331,7 +331,7 @@
   },
   "20210516": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -354,7 +354,7 @@
   },
   "20210523": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -376,7 +376,7 @@
   },
   "20210530": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -398,7 +398,7 @@
   },
   "20210606": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -420,7 +420,7 @@
   },
   "20210613": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -442,7 +442,7 @@
   },
   "20210620": {
     "count": 17,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -464,7 +464,7 @@
   },
   "20210627": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -487,7 +487,7 @@
   },
   "20210704": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -510,7 +510,7 @@
   },
   "20210711": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -533,7 +533,7 @@
   },
   "20210718": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -556,7 +556,7 @@
   },
   "20210725": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -579,7 +579,7 @@
   },
   "20210801": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -602,7 +602,7 @@
   },
   "20210808": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -625,7 +625,7 @@
   },
   "20210815": {
     "count": 19,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -649,7 +649,7 @@
   },
   "20210822": {
     "count": 19,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -673,7 +673,7 @@
   },
   "20210829": {
     "count": 19,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",
@@ -697,7 +697,7 @@
   },
   "20210905": {
     "count": 18,
-    "data": [
+    "symbols": [
       "ATOM",
       "AVAX",
       "BTC",

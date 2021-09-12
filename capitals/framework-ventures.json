@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -16,7 +16,7 @@
   },
   "20210404": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -31,7 +31,7 @@
   },
   "20210411": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -46,7 +46,7 @@
   },
   "20210418": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -61,7 +61,7 @@
   },
   "20210425": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -76,7 +76,7 @@
   },
   "20210502": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -91,7 +91,7 @@
   },
   "20210509": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -106,7 +106,7 @@
   },
   "20210516": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -121,7 +121,7 @@
   },
   "20210523": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -136,7 +136,7 @@
   },
   "20210530": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -151,7 +151,7 @@
   },
   "20210606": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -166,7 +166,7 @@
   },
   "20210613": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -181,7 +181,7 @@
   },
   "20210620": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -196,7 +196,7 @@
   },
   "20210627": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -211,7 +211,7 @@
   },
   "20210704": {
     "count": 9,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -225,7 +225,7 @@
   },
   "20210711": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -240,7 +240,7 @@
   },
   "20210718": {
     "count": 9,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -254,7 +254,7 @@
   },
   "20210725": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -269,7 +269,7 @@
   },
   "20210801": {
     "count": 9,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -283,7 +283,7 @@
   },
   "20210808": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -298,7 +298,7 @@
   },
   "20210815": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -313,7 +313,7 @@
   },
   "20210822": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -328,7 +328,7 @@
   },
   "20210829": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",
@@ -343,7 +343,7 @@
   },
   "20210905": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AAVE",
       "BTC",
       "CRV",

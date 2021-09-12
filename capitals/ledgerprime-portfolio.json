@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 3,
-    "data": [
+    "symbols": [
       "AKRO",
       "FLOW",
       "GRT"
@@ -9,63 +9,63 @@
   },
   "20210404": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210411": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210418": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210425": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210502": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210509": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210516": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210523": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210530": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -73,7 +73,7 @@
   },
   "20210606": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -81,7 +81,7 @@
   },
   "20210613": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -89,7 +89,7 @@
   },
   "20210620": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -97,7 +97,7 @@
   },
   "20210627": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -105,7 +105,7 @@
   },
   "20210704": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -113,7 +113,7 @@
   },
   "20210711": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -121,7 +121,7 @@
   },
   "20210718": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -129,7 +129,7 @@
   },
   "20210725": {
     "count": 3,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT",
       "HXRO"
@@ -137,42 +137,42 @@
   },
   "20210801": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210808": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210815": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210822": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210829": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]
   },
   "20210905": {
     "count": 2,
-    "data": [
+    "symbols": [
       "FLOW",
       "GRT"
     ]

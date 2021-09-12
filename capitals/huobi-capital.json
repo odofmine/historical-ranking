@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -16,7 +16,7 @@
   },
   "20210404": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -31,7 +31,7 @@
   },
   "20210411": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -46,7 +46,7 @@
   },
   "20210418": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -61,7 +61,7 @@
   },
   "20210425": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -76,7 +76,7 @@
   },
   "20210502": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -91,7 +91,7 @@
   },
   "20210509": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -106,7 +106,7 @@
   },
   "20210516": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -120,7 +120,7 @@
   },
   "20210523": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -135,7 +135,7 @@
   },
   "20210530": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -150,7 +150,7 @@
   },
   "20210606": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -164,7 +164,7 @@
   },
   "20210613": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -178,7 +178,7 @@
   },
   "20210620": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -192,7 +192,7 @@
   },
   "20210627": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -206,7 +206,7 @@
   },
   "20210704": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -220,7 +220,7 @@
   },
   "20210711": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -235,7 +235,7 @@
   },
   "20210718": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -249,7 +249,7 @@
   },
   "20210725": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -263,7 +263,7 @@
   },
   "20210801": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -278,7 +278,7 @@
   },
   "20210808": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -292,7 +292,7 @@
   },
   "20210815": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -306,7 +306,7 @@
   },
   "20210822": {
     "count": 9,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ETH",
@@ -320,7 +320,7 @@
   },
   "20210829": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",
@@ -335,7 +335,7 @@
   },
   "20210905": {
     "count": 10,
-    "data": [
+    "symbols": [
       "BTC",
       "CKB",
       "ELF",

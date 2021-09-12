@@ -1,7 +1,7 @@
 {
   "20210124": {
     "count": 9,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -15,7 +15,7 @@
   },
   "20210131": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -30,7 +30,7 @@
   },
   "20210207": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -45,7 +45,7 @@
   },
   "20210214": {
     "count": 10,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -60,7 +60,7 @@
   },
   "20210221": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -76,7 +76,7 @@
   },
   "20210228": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -92,7 +92,7 @@
   },
   "20210307": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -108,7 +108,7 @@
   },
   "20210314": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -124,7 +124,7 @@
   },
   "20210321": {
     "count": 11,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -140,7 +140,7 @@
   },
   "20210328": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -159,7 +159,7 @@
   },
   "20210404": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -178,7 +178,7 @@
   },
   "20210411": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -197,7 +197,7 @@
   },
   "20210418": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -216,7 +216,7 @@
   },
   "20210425": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -235,7 +235,7 @@
   },
   "20210502": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -254,7 +254,7 @@
   },
   "20210509": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -273,7 +273,7 @@
   },
   "20210516": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -292,7 +292,7 @@
   },
   "20210523": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -311,7 +311,7 @@
   },
   "20210530": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -330,7 +330,7 @@
   },
   "20210606": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -349,7 +349,7 @@
   },
   "20210613": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -368,7 +368,7 @@
   },
   "20210620": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -387,7 +387,7 @@
   },
   "20210627": {
     "count": 15,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -407,7 +407,7 @@
   },
   "20210704": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -426,7 +426,7 @@
   },
   "20210711": {
     "count": 15,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -446,7 +446,7 @@
   },
   "20210718": {
     "count": 14,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -465,7 +465,7 @@
   },
   "20210725": {
     "count": 15,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -485,7 +485,7 @@
   },
   "20210801": {
     "count": 15,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -505,7 +505,7 @@
   },
   "20210808": {
     "count": 16,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -526,7 +526,7 @@
   },
   "20210815": {
     "count": 16,
-    "data": [
+    "symbols": [
       "AR",
       "BTC",
       "CELO",
@@ -547,7 +547,7 @@
   },
   "20210822": {
     "count": 17,
-    "data": [
+    "symbols": [
       "AR",
       "AUDIO",
       "BTC",
@@ -569,7 +569,7 @@
   },
   "20210829": {
     "count": 17,
-    "data": [
+    "symbols": [
       "AR",
       "AUDIO",
       "BTC",
@@ -591,7 +591,7 @@
   },
   "20210905": {
     "count": 17,
-    "data": [
+    "symbols": [
       "AR",
       "AUDIO",
       "BTC",

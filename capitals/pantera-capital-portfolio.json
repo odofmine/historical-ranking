@@ -1,7 +1,7 @@
 {
   "20210328": {
     "count": 30,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -36,7 +36,7 @@
   },
   "20210404": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -70,7 +70,7 @@
   },
   "20210411": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -104,7 +104,7 @@
   },
   "20210418": {
     "count": 30,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -139,7 +139,7 @@
   },
   "20210425": {
     "count": 31,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -175,7 +175,7 @@
   },
   "20210502": {
     "count": 30,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -210,7 +210,7 @@
   },
   "20210509": {
     "count": 31,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -246,7 +246,7 @@
   },
   "20210516": {
     "count": 30,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -281,7 +281,7 @@
   },
   "20210523": {
     "count": 30,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -316,7 +316,7 @@
   },
   "20210530": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -350,7 +350,7 @@
   },
   "20210606": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -384,7 +384,7 @@
   },
   "20210613": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -418,7 +418,7 @@
   },
   "20210620": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -452,7 +452,7 @@
   },
   "20210627": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -486,7 +486,7 @@
   },
   "20210704": {
     "count": 28,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -519,7 +519,7 @@
   },
   "20210711": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -553,7 +553,7 @@
   },
   "20210718": {
     "count": 28,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -586,7 +586,7 @@
   },
   "20210725": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -620,7 +620,7 @@
   },
   "20210801": {
     "count": 27,
-    "data": [
+    "symbols": [
       "AAVE",
       "AMPL",
       "ANKR",
@@ -652,7 +652,7 @@
   },
   "20210808": {
     "count": 27,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -684,7 +684,7 @@
   },
   "20210815": {
     "count": 28,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "BAL",
@@ -717,7 +717,7 @@
   },
   "20210822": {
     "count": 29,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "AUDIO",
@@ -751,7 +751,7 @@
   },
   "20210829": {
     "count": 28,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "AUDIO",
@@ -784,7 +784,7 @@
   },
   "20210905": {
     "count": 28,
-    "data": [
+    "symbols": [
       "AAVE",
       "ANKR",
       "AUDIO",
