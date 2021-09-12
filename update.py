@@ -67,7 +67,10 @@ for dt_string in dt_strings:
     
     holdings = holding_history[dt_string]
     sorted_holdings = dict(sorted(holdings.items(), key=lambda x: x[1], reverse=True))
-    holding_history[dt_string] = sorted_holdings
+    holding_history[dt_string] = {
+        'count': len(sorted_holdings),
+        'symbols': sorted_holdings
+    }
 
 print(f'dump holding history data ({len(holding_history)})')
 
