@@ -262,5 +262,16 @@
       "NMR",
       "STX"
     ]
+  },
+  "20210912": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
   }
 }

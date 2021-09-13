@@ -610,5 +610,26 @@
       "UMA",
       "UNI"
     ]
+  },
+  "20210912": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
   }
 }

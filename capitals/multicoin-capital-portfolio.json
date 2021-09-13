@@ -462,5 +462,26 @@
       "RUNE",
       "SOL"
     ]
+  },
+  "20210912": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
   }
 }

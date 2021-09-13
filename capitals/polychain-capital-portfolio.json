@@ -717,5 +717,28 @@
       "ZIL",
       "ZRX"
     ]
+  },
+  "20210912": {
+    "count": 18,
+    "symbols": [
+      "ATOM",
+      "AVAX",
+      "BTC",
+      "CELO",
+      "CKB",
+      "COMP",
+      "DOT",
+      "ETH",
+      "FIL",
+      "ICP",
+      "MINA",
+      "MKR",
+      "NU",
+      "OXT",
+      "XTZ",
+      "YFI",
+      "ZIL",
+      "ZRX"
+    ]
   }
 }

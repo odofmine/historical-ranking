@@ -793,5 +793,37 @@
       "ZIL",
       "ZRX"
     ]
+  },
+  "20210912": {
+    "count": 27,
+    "symbols": [
+      "ALGO",
+      "BNT",
+      "DOT",
+      "ETH",
+      "FTT",
+      "GNO",
+      "HT",
+      "ICX",
+      "IOTX",
+      "KSM",
+      "LEO",
+      "LUNA",
+      "MANA",
+      "MLN",
+      "NEAR",
+      "NU",
+      "OGN",
+      "OXT",
+      "QTUM",
+      "REEF",
+      "REN",
+      "SNT",
+      "SOL",
+      "SRM",
+      "WAXP",
+      "ZIL",
+      "ZRX"
+    ]
   }
 }

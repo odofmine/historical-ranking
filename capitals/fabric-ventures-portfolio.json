@@ -407,5 +407,22 @@
       "STX",
       "ZRX"
     ]
+  },
+  "20210912": {
+    "count": 12,
+    "symbols": [
+      "1INCH",
+      "BTC",
+      "DOT",
+      "ETH",
+      "GRT",
+      "MANA",
+      "NEAR",
+      "OCEAN",
+      "OXT",
+      "SNT",
+      "STX",
+      "ZRX"
+    ]
   }
 }

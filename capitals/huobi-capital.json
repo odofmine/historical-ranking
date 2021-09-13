@@ -347,5 +347,20 @@
       "STX",
       "THETA"
     ]
+  },
+  "20210912": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "CKB",
+      "ELF",
+      "ETH",
+      "IOST",
+      "LUNA",
+      "ONT",
+      "REN",
+      "STX",
+      "THETA"
+    ]
   }
 }

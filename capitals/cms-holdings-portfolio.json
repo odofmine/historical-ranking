@@ -390,5 +390,21 @@
       "SOL",
       "SRM"
     ]
+  },
+  "20210912": {
+    "count": 11,
+    "symbols": [
+      "AVAX",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FTT",
+      "INJ",
+      "KSM",
+      "PERP",
+      "SOL",
+      "SRM"
+    ]
   }
 }
