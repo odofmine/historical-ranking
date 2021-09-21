@@ -353,5 +353,18 @@
       "NU",
       "SRM"
     ]
+  },
+  "20210919": {
+    "count": 8,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
   }
 }

@@ -248,5 +248,15 @@
       "VET",
       "ZEC"
     ]
+  },
+  "20210919": {
+    "count": 5,
+    "symbols": [
+      "DOT",
+      "EOS",
+      "SC",
+      "VET",
+      "ZEC"
+    ]
   }
 }

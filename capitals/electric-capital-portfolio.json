@@ -348,5 +348,19 @@
       "XMR",
       "ZEC"
     ]
+  },
+  "20210919": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
   }
 }

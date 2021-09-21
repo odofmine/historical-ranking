@@ -454,5 +454,24 @@
       "XLM",
       "ZEC"
     ]
+  },
+  "20210919": {
+    "count": 14,
+    "symbols": [
+      "ATOM",
+      "CKB",
+      "CSPR",
+      "DOT",
+      "ETH",
+      "FIL",
+      "IOTX",
+      "KAVA",
+      "LUNA",
+      "ONE",
+      "SKL",
+      "STX",
+      "XLM",
+      "ZEC"
+    ]
   }
 }

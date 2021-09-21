@@ -398,5 +398,21 @@
       "SC",
       "UMA"
     ]
+  },
+  "20210919": {
+    "count": 11,
+    "symbols": [
+      "1INCH",
+      "ATOM",
+      "AVAX",
+      "BTC",
+      "CELO",
+      "CKB",
+      "COMP",
+      "ETH",
+      "MKR",
+      "SC",
+      "UMA"
+    ]
   }
 }

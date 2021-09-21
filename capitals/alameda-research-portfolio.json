@@ -714,5 +714,31 @@
       "UNI",
       "YFI"
     ]
+  },
+  "20210919": {
+    "count": 21,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "ALPHA",
+      "BNB",
+      "BTC",
+      "COMP",
+      "CRV",
+      "ETH",
+      "FTT",
+      "HT",
+      "LEO",
+      "OKB",
+      "PERP",
+      "REN",
+      "SNX",
+      "SOL",
+      "SRM",
+      "SUSHI",
+      "SXP",
+      "UNI",
+      "YFI"
+    ]
   }
 }

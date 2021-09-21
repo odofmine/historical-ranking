@@ -510,5 +510,26 @@
       "YFI",
       "ZRX"
     ]
+  },
+  "20210919": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
   }
 }
