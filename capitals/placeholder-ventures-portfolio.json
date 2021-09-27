@@ -425,5 +425,21 @@
       "ZEC",
       "ZRX"
     ]
+  },
+  "20210926": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "MLN",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
   }
 }

@@ -383,5 +383,19 @@
       "SNX",
       "YFI"
     ]
+  },
+  "20210926": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
   }
 }

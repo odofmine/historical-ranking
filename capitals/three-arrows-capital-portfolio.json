@@ -546,5 +546,19 @@
       "UNI",
       "YFI"
     ]
+  },
+  "20210926": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "COMP",
+      "DOT",
+      "ETH",
+      "PERP",
+      "SNX",
+      "UNI",
+      "YFI"
+    ]
   }
 }

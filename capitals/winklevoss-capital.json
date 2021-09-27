@@ -258,5 +258,15 @@
       "XTZ",
       "ZEC"
     ]
+  },
+  "20210926": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
   }
 }

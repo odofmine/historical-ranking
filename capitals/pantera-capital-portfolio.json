@@ -876,5 +876,36 @@
       "ZEC",
       "ZRX"
     ]
+  },
+  "20210926": {
+    "count": 26,
+    "symbols": [
+      "AAVE",
+      "ANKR",
+      "AUDIO",
+      "BAT",
+      "BTC",
+      "CELR",
+      "COMP",
+      "CVC",
+      "DOT",
+      "ETH",
+      "FIL",
+      "FTT",
+      "FUN",
+      "ICX",
+      "INJ",
+      "LPT",
+      "LUNA",
+      "MKR",
+      "OGN",
+      "OMG",
+      "REP",
+      "SUSHI",
+      "UNI",
+      "XRP",
+      "ZEC",
+      "ZRX"
+    ]
   }
 }

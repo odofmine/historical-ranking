@@ -295,5 +295,16 @@
       "XMR",
       "XRP"
     ]
+  },
+  "20210926": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
   }
 }

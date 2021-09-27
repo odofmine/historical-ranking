@@ -420,5 +420,21 @@
       "UNI",
       "XRP"
     ]
+  },
+  "20210926": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
   }
 }

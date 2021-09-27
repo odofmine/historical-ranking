@@ -362,5 +362,19 @@
       "MKR",
       "REP"
     ]
+  },
+  "20210926": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
   }
 }

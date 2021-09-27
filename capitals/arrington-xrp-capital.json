@@ -419,5 +419,20 @@
       "STX",
       "XRP"
     ]
+  },
+  "20210926": {
+    "count": 10,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "CELR",
+      "ETH",
+      "LEO",
+      "LUNA",
+      "NEXO",
+      "RSR",
+      "STX",
+      "XRP"
+    ]
   }
 }

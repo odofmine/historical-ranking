@@ -552,5 +552,26 @@
       "ZEC",
       "ZEN"
     ]
+  },
+  "20210926": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
   }
 }
