@@ -441,5 +441,122 @@
       "ZEC",
       "ZRX"
     ]
+  },
+  "20211003": {
+    "count": 11,
+    "symbols": [
+      "ANT",
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "MLN",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211010": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "MLN",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211017": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "MLN",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211024": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "MLN",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211031": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211107": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211114": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
+  },
+  "20211121": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "DCR",
+      "DOT",
+      "ETH",
+      "MKR",
+      "NMR",
+      "UMA",
+      "ZEC",
+      "ZRX"
+    ]
   }
 }

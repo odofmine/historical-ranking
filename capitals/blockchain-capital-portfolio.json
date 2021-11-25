@@ -551,5 +551,172 @@
       "YFI",
       "ZRX"
     ]
+  },
+  "20211003": {
+    "count": 15,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211010": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211017": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211024": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211031": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211107": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211114": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
+  },
+  "20211121": {
+    "count": 16,
+    "symbols": [
+      "1INCH",
+      "AAVE",
+      "AR",
+      "BADGER",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "FIL",
+      "OXT",
+      "STX",
+      "SUSHI",
+      "UMA",
+      "UNI",
+      "YFI",
+      "ZRX"
+    ]
   }
 }

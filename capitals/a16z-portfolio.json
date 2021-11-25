@@ -436,5 +436,134 @@
       "UNI",
       "XRP"
     ]
+  },
+  "20211003": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211010": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211017": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211024": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211031": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211107": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211114": {
+    "count": 11,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "UNI",
+      "XRP"
+    ]
+  },
+  "20211121": {
+    "count": 12,
+    "symbols": [
+      "AR",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "MKR",
+      "OXT",
+      "ROSE",
+      "UNI",
+      "XRP"
+    ]
   }
 }

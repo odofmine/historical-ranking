@@ -376,5 +376,114 @@
       "MKR",
       "REP"
     ]
+  },
+  "20211003": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
+  },
+  "20211010": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
+  },
+  "20211017": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
+  },
+  "20211024": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
+  },
+  "20211031": {
+    "count": 9,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR",
+      "REP"
+    ]
+  },
+  "20211107": {
+    "count": 8,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR"
+    ]
+  },
+  "20211114": {
+    "count": 8,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR"
+    ]
+  },
+  "20211121": {
+    "count": 8,
+    "symbols": [
+      "ATOM",
+      "BAT",
+      "BTC",
+      "CKB",
+      "DOT",
+      "ETH",
+      "KSM",
+      "MKR"
+    ]
   }
 }

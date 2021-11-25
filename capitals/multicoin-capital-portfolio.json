@@ -525,5 +525,173 @@
       "RUNE",
       "SOL"
     ]
+  },
+  "20211003": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211010": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211017": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211024": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211031": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "LPT",
+      "PERP",
+      "REP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211107": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "KDA",
+      "LPT",
+      "PERP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211114": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "KDA",
+      "LPT",
+      "PERP",
+      "RUNE",
+      "SOL"
+    ]
+  },
+  "20211121": {
+    "count": 16,
+    "symbols": [
+      "ALGO",
+      "ALPHA",
+      "AR",
+      "AUDIO",
+      "BNB",
+      "BTC",
+      "CKB",
+      "ETH",
+      "GRT",
+      "HNT",
+      "HT",
+      "KDA",
+      "LPT",
+      "PERP",
+      "RUNE",
+      "SOL"
+    ]
   }
 }

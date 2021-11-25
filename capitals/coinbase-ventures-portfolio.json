@@ -673,5 +673,173 @@
       "UMA",
       "UNI"
     ]
+  },
+  "20211003": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211010": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211017": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211024": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211031": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211107": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211114": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
+  },
+  "20211121": {
+    "count": 16,
+    "symbols": [
+      "AR",
+      "AUDIO",
+      "BTC",
+      "CELO",
+      "COMP",
+      "ETH",
+      "FLOW",
+      "GRT",
+      "LUNA",
+      "MATIC",
+      "MINA",
+      "NEAR",
+      "RSR",
+      "SNX",
+      "UMA",
+      "UNI"
+    ]
   }
 }

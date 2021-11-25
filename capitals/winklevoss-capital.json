@@ -268,5 +268,65 @@
       "XTZ",
       "ZEC"
     ]
+  },
+  "20211003": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211010": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211017": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211024": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211031": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
+  },
+  "20211107": {
+    "count": 5,
+    "symbols": [
+      "BTC",
+      "ETH",
+      "FIL",
+      "XTZ",
+      "ZEC"
+    ]
   }
 }

@@ -295,5 +295,93 @@
       "NMR",
       "STX"
     ]
+  },
+  "20211003": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211010": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211017": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211024": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211031": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211107": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211114": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
+  },
+  "20211121": {
+    "count": 6,
+    "symbols": [
+      "ALGO",
+      "BTC",
+      "ETH",
+      "HNT",
+      "NMR",
+      "STX"
+    ]
   }
 }

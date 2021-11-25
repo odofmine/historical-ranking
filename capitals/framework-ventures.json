@@ -397,5 +397,89 @@
       "SNX",
       "YFI"
     ]
+  },
+  "20211003": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
+  },
+  "20211010": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
+  },
+  "20211017": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
+  },
+  "20211024": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
+  },
+  "20211031": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
+  },
+  "20211107": {
+    "count": 9,
+    "symbols": [
+      "AAVE",
+      "BTC",
+      "CRV",
+      "ETH",
+      "GRT",
+      "KAVA",
+      "LINK",
+      "SNX",
+      "YFI"
+    ]
   }
 }

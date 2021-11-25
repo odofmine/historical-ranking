@@ -376,5 +376,118 @@
       "XMR",
       "ZEC"
     ]
+  },
+  "20211003": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211010": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211017": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211024": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211031": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211107": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211114": {
+    "count": 9,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "XMR",
+      "ZEC"
+    ]
+  },
+  "20211121": {
+    "count": 10,
+    "symbols": [
+      "BTC",
+      "CELO",
+      "CKB",
+      "EGLD",
+      "ETH",
+      "MKR",
+      "NEAR",
+      "ROSE",
+      "XMR",
+      "ZEC"
+    ]
   }
 }

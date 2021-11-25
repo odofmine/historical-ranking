@@ -573,5 +573,173 @@
       "ZEC",
       "ZEN"
     ]
+  },
+  "20211003": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211010": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211017": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211024": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211031": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211107": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211114": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
+  },
+  "20211121": {
+    "count": 16,
+    "symbols": [
+      "BAT",
+      "BTC",
+      "CVC",
+      "ETC",
+      "ETH",
+      "FIL",
+      "FLOW",
+      "GRT",
+      "HBAR",
+      "LPT",
+      "MANA",
+      "OCEAN",
+      "RSR",
+      "STX",
+      "ZEC",
+      "ZEN"
+    ]
   }
 }

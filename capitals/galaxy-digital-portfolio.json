@@ -306,5 +306,93 @@
       "XMR",
       "XRP"
     ]
+  },
+  "20211003": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211010": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211017": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211024": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211031": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211107": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211114": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
+  },
+  "20211121": {
+    "count": 6,
+    "symbols": [
+      "BTC",
+      "EOS",
+      "SKL",
+      "WAXP",
+      "XMR",
+      "XRP"
+    ]
   }
 }

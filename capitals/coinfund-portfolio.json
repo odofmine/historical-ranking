@@ -379,5 +379,111 @@
       "NU",
       "SRM"
     ]
+  },
+  "20211003": {
+    "count": 8,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211010": {
+    "count": 7,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "SRM"
+    ]
+  },
+  "20211017": {
+    "count": 8,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211024": {
+    "count": 8,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211031": {
+    "count": 8,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211107": {
+    "count": 9,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "KDA",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211114": {
+    "count": 9,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "KDA",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
+  },
+  "20211121": {
+    "count": 9,
+    "symbols": [
+      "DOT",
+      "FLOW",
+      "GRT",
+      "KDA",
+      "LPT",
+      "NEAR",
+      "NMR",
+      "NU",
+      "SRM"
+    ]
   }
 }
