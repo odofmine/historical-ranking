@@ -1,7 +1,7 @@
 {
-  "gainers_percent": 32.4,
-  "losers_percent": 67.6,
-  "volume": 1574553456,
+  "gainers_percent": 0,
+  "losers_percent": 100,
+  "volume": 66644571192.36349,
   "market_cap": {
     "open": 198092593245.5844,
     "high": 201079594943.99866,
