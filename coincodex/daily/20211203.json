@@ -8627,7 +8627,7 @@
   {
     "symbol": "DG",
     "display_symbol": "DG",
-    "name": "Decentral Games",
+    "name": "Decentral Games [Old]",
     "aliases": "",
     "shortname": "decentral-games",
     "last_price_usd": 531.26,
@@ -11225,7 +11225,7 @@
     "market_cap_usd": 104952144
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12077,7 +12077,7 @@
   {
     "symbol": "FOX4",
     "display_symbol": "FOX",
-    "name": "FOX Token",
+    "name": "ShapeShift FOX Token",
     "aliases": "",
     "shortname": "fox-token",
     "last_price_usd": 0.7706143104359982,

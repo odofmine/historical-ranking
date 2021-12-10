@@ -7725,7 +7725,7 @@
     "market_cap_usd": 7580288
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -11075,31 +11075,6 @@
     "market_cap_usd": 4184899
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00014563742279411775,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 3.2949694390236823,
-    "price_change_7D_percent": -29.789283351796094,
-    "price_change_30D_percent": -44.204442827446464,
-    "price_change_90D_percent": -67.01765679064526,
-    "price_change_180D_percent": -53.251239891895985,
-    "price_change_365D_percent": -77.28908143931788,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 6125.86,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28582334976,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4162658
-  },
-  {
     "symbol": "APPC",
     "display_symbol": "APPC",
     "name": "AppCoins",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3192666
+  },
+  {
+    "symbol": "TIOX",
+    "display_symbol": "TIOx",
+    "name": "Trade Token X",
+    "aliases": "",
+    "shortname": "trade-token-x",
+    "last_price_usd": 0.0372396497801724,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -13.002080525698908,
+    "price_change_7D_percent": -29.23538539764864,
+    "price_change_30D_percent": -29.464317371563524,
+    "price_change_90D_percent": -58.664890334616736,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 5013.02,
+    "display": "true",
+    "trading_since": "2019-04-04 12:00:00",
+    "supply": 85542678,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3185579
   }
 ]

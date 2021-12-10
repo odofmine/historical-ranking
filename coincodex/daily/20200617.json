@@ -6225,31 +6225,6 @@
     "market_cap_usd": 11560754
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0004017776384615382,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 1.0472259070473686,
-    "price_change_7D_percent": 3.0533502940197783,
-    "price_change_30D_percent": 199.77726824391905,
-    "price_change_90D_percent": 322.2084587547606,
-    "price_change_180D_percent": 162.61646257996802,
-    "price_change_365D_percent": 8.301252098961792,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5882.18,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28682501786,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 11523988
-  },
-  {
     "symbol": "COS",
     "display_symbol": "COS",
     "name": "Contentos",
@@ -7400,7 +7375,7 @@
     "market_cap_usd": 9041807
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3333877
+  },
+  {
+    "symbol": "HVN",
+    "display_symbol": "HVN",
+    "name": "Hiveterminal Token",
+    "aliases": "",
+    "shortname": "hiveterminal-token",
+    "last_price_usd": 0.006652934887159533,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 9.239846204350847,
+    "price_change_7D_percent": -5.762785482157735,
+    "price_change_30D_percent": -37.91483013786305,
+    "price_change_90D_percent": 201.73726737161184,
+    "price_change_180D_percent": 302.27742168264456,
+    "price_change_365D_percent": -4.696266641263815,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 4815.16,
+    "display": "true",
+    "trading_since": "2017-09-10 03:20:00",
+    "supply": 500000000,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3326467
   }
 ]

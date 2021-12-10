@@ -9100,7 +9100,7 @@
     "market_cap_usd": 4746202
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9548,31 +9548,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4154035
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00014454869803921566,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.7397101999864706,
-    "price_change_7D_percent": 0.3187460054769437,
-    "price_change_30D_percent": 12.434493129384654,
-    "price_change_90D_percent": -27.18158591558811,
-    "price_change_180D_percent": -16.83910023933928,
-    "price_change_365D_percent": -47.08461943091321,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 2629.29,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28628048403,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4138147
   },
   {
     "symbol": "XCP",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2551646
+  },
+  {
+    "symbol": "AEON",
+    "display_symbol": "AEON",
+    "name": "Aeon",
+    "aliases": "",
+    "shortname": "aeon",
+    "last_price_usd": 0.16114078974603174,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.1295948778563285,
+    "price_change_7D_percent": -4.792406895318463,
+    "price_change_30D_percent": -10.803015287528908,
+    "price_change_90D_percent": -11.61836095671614,
+    "price_change_180D_percent": -72.65720295138941,
+    "price_change_365D_percent": -43.78474287873414,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 630.65,
+    "display": "true",
+    "trading_since": "2015-08-04 18:15:00",
+    "supply": 15831459,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2551094
   }
 ]

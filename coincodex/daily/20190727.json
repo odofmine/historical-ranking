@@ -7750,7 +7750,7 @@
     "market_cap_usd": 7830847
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7923,31 +7923,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7556828
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0002610197481203009,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -8.06083994209013,
-    "price_change_7D_percent": -6.232846695170389,
-    "price_change_30D_percent": -28.050188605932664,
-    "price_change_90D_percent": 20.6727246983928,
-    "price_change_180D_percent": 14.806502326030879,
-    "price_change_365D_percent": -67.8678942396416,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 10643,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28569553701,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7457218
   },
   {
     "symbol": "FLO",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3290544
+  },
+  {
+    "symbol": "LUN",
+    "display_symbol": "LUN",
+    "name": "Lunyr",
+    "aliases": "",
+    "shortname": "lunyr",
+    "last_price_usd": 1.4274650709250005,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.5502608014233589,
+    "price_change_7D_percent": -1.2801788914026284,
+    "price_change_30D_percent": -35.11822991948408,
+    "price_change_90D_percent": -40.79999672205392,
+    "price_change_180D_percent": -16.548381439645542,
+    "price_change_365D_percent": -79.04852958945811,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 456471,
+    "display": "true",
+    "trading_since": "2017-08-10 00:09:20",
+    "supply": 2297852,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3280105
   }
 ]

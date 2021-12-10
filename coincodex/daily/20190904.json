@@ -8125,7 +8125,7 @@
     "market_cap_usd": 6640056
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -10273,31 +10273,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4460624
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00015587048736462087,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.3306030249072716,
-    "price_change_7D_percent": -2.078120657213309,
-    "price_change_30D_percent": -36.16539561871706,
-    "price_change_90D_percent": -57.16062034839066,
-    "price_change_180D_percent": -39.86064329536424,
-    "price_change_365D_percent": -79.69616720791802,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5366.71,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28586262521,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4455755
   },
   {
     "symbol": "PNT2",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3165000
+  },
+  {
+    "symbol": "SHA2",
+    "display_symbol": "SHA",
+    "name": "Safe Haven",
+    "aliases": "",
+    "shortname": "safe-haven",
+    "last_price_usd": 0.0010371730000000017,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0,
+    "price_change_7D_percent": 0,
+    "price_change_30D_percent": 125.71088810667833,
+    "price_change_90D_percent": -29.365070644556855,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 0,
+    "display": "true",
+    "trading_since": "2019-04-02 21:45:00",
+    "supply": 3005855396,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3117592
   }
 ]

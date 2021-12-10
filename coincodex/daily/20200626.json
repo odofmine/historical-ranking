@@ -8000,31 +8000,6 @@
     "market_cap_usd": 8028777
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00027960624452554755,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -11.112716763928862,
-    "price_change_7D_percent": -25.606546842467225,
-    "price_change_30D_percent": 158.0614213487716,
-    "price_change_90D_percent": 134.8473555169385,
-    "price_change_180D_percent": 51.01045938574346,
-    "price_change_365D_percent": -22.926840964750888,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 11985,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28684813406,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8020453
-  },
-  {
     "symbol": "NEW",
     "display_symbol": "NEW",
     "name": "Newton Project",
@@ -8700,7 +8675,7 @@
     "market_cap_usd": 6865406
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3265434
+  },
+  {
+    "symbol": "CVCC",
+    "display_symbol": "CVCC",
+    "name": "Crypto Verification Coin",
+    "aliases": "",
+    "shortname": "crypto-verification-coin",
+    "last_price_usd": 5.56,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 9.614413121810394,
+    "price_change_7D_percent": 9.907424184020948,
+    "price_change_30D_percent": -65.05335830511528,
+    "price_change_90D_percent": -72.5674351128212,
+    "price_change_180D_percent": -88.22823720090396,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 8.36,
+    "display": "true",
+    "trading_since": "2019-07-11 09:10:00",
+    "supply": 582595,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3241534
   }
 ]

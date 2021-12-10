@@ -7975,7 +7975,7 @@
     "market_cap_usd": 6961406
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -10173,31 +10173,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4459319
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0001556943246753245,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -9.473091993552089,
-    "price_change_7D_percent": 0.5195817384462279,
-    "price_change_30D_percent": -18.37009643391593,
-    "price_change_90D_percent": -58.814208015807765,
-    "price_change_180D_percent": -38.797697682245804,
-    "price_change_365D_percent": -77.47969784893604,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5378.27,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28590537048,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4451384
   },
   {
     "symbol": "TPAY",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3117063
+  },
+  {
+    "symbol": "AMO",
+    "display_symbol": "AMO",
+    "name": "AMO Coin",
+    "aliases": "",
+    "shortname": "amo-coin",
+    "last_price_usd": 0.00039176845833333333,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 1.4028020883549879,
+    "price_change_7D_percent": 3.8989450431472847,
+    "price_change_30D_percent": 2.5567192828421708,
+    "price_change_90D_percent": -37.92767268652776,
+    "price_change_180D_percent": -40.74992192390122,
+    "price_change_365D_percent": -77.3063431281352,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 29016,
+    "display": "true",
+    "trading_since": "2018-08-28 12:05:00",
+    "supply": 7925407379,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3104925
   }
 ]

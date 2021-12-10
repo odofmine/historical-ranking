@@ -7250,6 +7250,31 @@
     "market_cap_usd": 18105635
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19714085226978426,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.4413884167536952,
+    "price_change_7D_percent": 12.696646997225262,
+    "price_change_30D_percent": -0.4556704553399719,
+    "price_change_90D_percent": 11.789266981115917,
+    "price_change_180D_percent": 833.6105886738169,
+    "price_change_365D_percent": 1037.8292978677423,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 495506,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18008695
+  },
+  {
     "symbol": "SNL",
     "display_symbol": "SNL",
     "name": "Sport and Leisure",
@@ -7375,7 +7400,7 @@
     "market_cap_usd": 17217901
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6138782
-  },
-  {
-    "symbol": "JDC",
-    "display_symbol": "JDC",
-    "name": "JD Coin",
-    "aliases": "",
-    "shortname": "jd-coin",
-    "last_price_usd": 0.14699150010489528,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -3.8998924769557317,
-    "price_change_7D_percent": 15.35632484604422,
-    "price_change_30D_percent": 37.907799121708095,
-    "price_change_90D_percent": -20.698791474050577,
-    "price_change_180D_percent": 1.7365998053756895,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 20304,
-    "display": "true",
-    "trading_since": "2020-01-03 10:55:00",
-    "supply": 41537910,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6105720
   }
 ]

@@ -6700,6 +6700,31 @@
     "market_cap_usd": 23290784
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.25328958051736106,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 17.817748245408925,
+    "price_change_7D_percent": 31.8469455263953,
+    "price_change_30D_percent": 34.690279995255274,
+    "price_change_90D_percent": 25.61476040871281,
+    "price_change_180D_percent": 1015.335075813752,
+    "price_change_365D_percent": 1262.4157761381034,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 678444,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 23137847
+  },
+  {
     "symbol": "WXT",
     "display_symbol": "WXT",
     "name": "Wirex Token",
@@ -6875,7 +6900,7 @@
     "market_cap_usd": 21739290
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6656775
-  },
-  {
-    "symbol": "TOP2",
-    "display_symbol": "TOP",
-    "name": "TOP Network",
-    "aliases": "",
-    "shortname": "top-network",
-    "last_price_usd": 0.0012918163576388897,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0.9497795950503775,
-    "price_change_7D_percent": 1.7015777657958011,
-    "price_change_30D_percent": -4.8929295041400485,
-    "price_change_90D_percent": -49.447845469659605,
-    "price_change_180D_percent": -19.83391694822046,
-    "price_change_365D_percent": -22.565374288386646,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 232100,
-    "display": "true",
-    "trading_since": "2019-03-27 11:05:00",
-    "supply": 5150266133,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6653198
   }
 ]

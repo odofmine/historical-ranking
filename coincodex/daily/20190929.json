@@ -8400,7 +8400,7 @@
     "market_cap_usd": 5427512
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -10098,31 +10098,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4005753
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00013975023166023164,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0.6375904414746283,
-    "price_change_7D_percent": -20.75561680725509,
-    "price_change_30D_percent": -15.243632437919654,
-    "price_change_90D_percent": -54.910047982330276,
-    "price_change_180D_percent": -54.17843126524936,
-    "price_change_365D_percent": -76.8988574193437,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 1010.32,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28596725669,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 3996399
   },
   {
     "symbol": "FUEL",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2676452
+  },
+  {
+    "symbol": "ORS",
+    "display_symbol": "ORS",
+    "name": "Origin Sport",
+    "aliases": "",
+    "shortname": "origin-sport",
+    "last_price_usd": 0.00889569503125,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.22501486085246453,
+    "price_change_7D_percent": -27.402928019151577,
+    "price_change_30D_percent": -36.49919132123894,
+    "price_change_90D_percent": -32.26937275431263,
+    "price_change_180D_percent": 10.236468259564436,
+    "price_change_365D_percent": -67.52453764121616,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 3887612,
+    "display": "true",
+    "trading_since": "2018-06-27 20:00:00",
+    "supply": 299999850,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2668707
   }
 ]

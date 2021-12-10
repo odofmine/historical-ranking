@@ -9400,7 +9400,7 @@
     "market_cap_usd": 4388117
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9848,31 +9848,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4058532
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0001412876911196911,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 2.6724620475408107,
-    "price_change_7D_percent": -8.980271055652569,
-    "price_change_30D_percent": -1.76825181870225,
-    "price_change_90D_percent": -36.02592886073119,
-    "price_change_180D_percent": -6.694680059259279,
-    "price_change_365D_percent": -54.261658563400964,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 4341.5,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28628048404,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4044791
   },
   {
     "symbol": "LBC",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2487491
+  },
+  {
+    "symbol": "SENSE",
+    "display_symbol": "SENSE",
+    "name": "Sense",
+    "aliases": "",
+    "shortname": "sense",
+    "last_price_usd": 0.004879255708955224,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 20.940600015068316,
+    "price_change_7D_percent": 13.396372445425028,
+    "price_change_30D_percent": 67.62308543841058,
+    "price_change_90D_percent": -35.33625463755865,
+    "price_change_180D_percent": 160.61070487953774,
+    "price_change_365D_percent": -42.91870726744851,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 3967.39,
+    "display": "true",
+    "trading_since": "2018-01-31 19:50:00",
+    "supply": 508816362,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2482645
   }
 ]

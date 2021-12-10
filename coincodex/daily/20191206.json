@@ -8225,31 +8225,6 @@
     "market_cap_usd": 5366125
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00018621521538461552,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -6.191499151267916,
-    "price_change_7D_percent": -11.882708440085949,
-    "price_change_30D_percent": 27.006731909014448,
-    "price_change_90D_percent": 11.129105306298282,
-    "price_change_180D_percent": -49.63902318371212,
-    "price_change_365D_percent": -21.724160964518777,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 3857.18,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28628048403,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5330978
-  },
-  {
     "symbol": "CPT3",
     "display_symbol": "CPT",
     "name": "Contents Protocol",
@@ -9100,7 +9075,7 @@
     "market_cap_usd": 4453347
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2485135
+  },
+  {
+    "symbol": "NCT",
+    "display_symbol": "NCT",
+    "name": "PolySwarm",
+    "aliases": "",
+    "shortname": "polyswarm",
+    "last_price_usd": 0.0016016227499999988,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.2616290883665294,
+    "price_change_7D_percent": -12.366654378065913,
+    "price_change_30D_percent": -42.9101880549241,
+    "price_change_90D_percent": 28.865563650565466,
+    "price_change_180D_percent": -25.18585681975565,
+    "price_change_365D_percent": -12.46186153358658,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 10920,
+    "display": "true",
+    "trading_since": "2018-04-10 07:38:23",
+    "supply": 1546457130,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2476841
   }
 ]

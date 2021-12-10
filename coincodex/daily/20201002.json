@@ -5525,7 +5525,7 @@
     "market_cap_usd": 24346276
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7123,6 +7123,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 15983894
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.17464845787003622,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -5.772341496065356,
+    "price_change_7D_percent": -18.092498903325968,
+    "price_change_30D_percent": -32.617368441205244,
+    "price_change_90D_percent": 471.45957731992826,
+    "price_change_180D_percent": 533.2165104663359,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 235613,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15954029
   },
   {
     "symbol": "IPX",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5431955
-  },
-  {
-    "symbol": "DERO",
-    "display_symbol": "DERO",
-    "name": "DERO",
-    "aliases": "",
-    "shortname": "dero",
-    "last_price_usd": 0.5398971850851064,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.3215260002577045,
-    "price_change_7D_percent": -9.832165100170737,
-    "price_change_30D_percent": -35.875015362542605,
-    "price_change_90D_percent": -48.67074168491828,
-    "price_change_180D_percent": 88.37568474444129,
-    "price_change_365D_percent": 25.81764650464705,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 256294,
-    "display": "true",
-    "trading_since": "2018-01-06 16:29:02",
-    "supply": 10054467,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5428378
   }
 ]

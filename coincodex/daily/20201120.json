@@ -7675,7 +7675,7 @@
     "market_cap_usd": 17091022
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7873,6 +7873,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 16126100
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.1764223775470383,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -3.6347537617064627,
+    "price_change_7D_percent": -11.799384130407208,
+    "price_change_30D_percent": -8.855497505307467,
+    "price_change_90D_percent": -7.226324537890977,
+    "price_change_180D_percent": 729.261894723677,
+    "price_change_365D_percent": 661.6667189454545,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 592159,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 16116075
   },
   {
     "symbol": "MTA3",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6335967
-  },
-  {
-    "symbol": "ACT",
-    "display_symbol": "ACT",
-    "name": "Achain",
-    "aliases": "",
-    "shortname": "achain",
-    "last_price_usd": 0.0063749410883392294,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -0.5964632231703598,
-    "price_change_7D_percent": 9.362511427175827,
-    "price_change_30D_percent": -14.961522318162304,
-    "price_change_90D_percent": -30.588305255367658,
-    "price_change_180D_percent": 15.298265481044657,
-    "price_change_365D_percent": -14.23471413721753,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 2534954,
-    "display": "true",
-    "trading_since": "2017-08-27 19:50:00",
-    "supply": 979999997,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6247442
   }
 ]

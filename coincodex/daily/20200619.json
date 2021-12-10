@@ -6650,31 +6650,6 @@
     "market_cap_usd": 10927270
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00037584791760299647,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -5.033462705662437,
-    "price_change_7D_percent": 0.2525880194180569,
-    "price_change_30D_percent": 223.58502811979992,
-    "price_change_90D_percent": 216.4460311175729,
-    "price_change_180D_percent": 145.39933729216125,
-    "price_change_365D_percent": 14.168815935051631,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 8351.52,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28682979910,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 10780438
-  },
-  {
     "symbol": "XPR2",
     "display_symbol": "XPR",
     "name": "Proton",
@@ -8075,7 +8050,7 @@
     "market_cap_usd": 8031655
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3419425
+  },
+  {
+    "symbol": "DADI",
+    "display_symbol": "DADI",
+    "name": "Edge",
+    "aliases": "",
+    "shortname": "dadi",
+    "last_price_usd": 0.04577580826086959,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 25.67628700880615,
+    "price_change_7D_percent": 49.16290787411291,
+    "price_change_30D_percent": 58.67505255491036,
+    "price_change_90D_percent": 42.63984499524776,
+    "price_change_180D_percent": 24.951444022494083,
+    "price_change_365D_percent": -10.05603057550856,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 0,
+    "display": "true",
+    "trading_since": "2018-02-20 02:05:00",
+    "supply": 74652460,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3417277
   }
 ]

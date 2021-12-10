@@ -7475,31 +7475,6 @@
     "market_cap_usd": 9298498
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00032126198846153846,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -17.210200153423134,
-    "price_change_7D_percent": -20.039853464295636,
-    "price_change_30D_percent": 189.38052017861168,
-    "price_change_90D_percent": 184.8536244064885,
-    "price_change_180D_percent": 89.85191507583676,
-    "price_change_365D_percent": -11.322408075876545,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 19441,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28684303219,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 9215176
-  },
-  {
     "symbol": "ITC",
     "display_symbol": "ITC",
     "name": "IoT Chain",
@@ -8275,7 +8250,7 @@
     "market_cap_usd": 7690857
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3414253
+  },
+  {
+    "symbol": "BCV",
+    "display_symbol": "BCV",
+    "name": "BitCapitalVendor",
+    "aliases": "",
+    "shortname": "bitcapitalvendor",
+    "last_price_usd": 0.003556685590747333,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -5.032648104447404,
+    "price_change_7D_percent": 12.847574094760517,
+    "price_change_30D_percent": 1.6875195044341331,
+    "price_change_90D_percent": -5.521434622112294,
+    "price_change_180D_percent": -52.03050473072173,
+    "price_change_365D_percent": -74.22409579741057,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 111180,
+    "display": "true",
+    "trading_since": "2018-08-02 22:00:00",
+    "supply": 955988562,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3400151
   }
 ]

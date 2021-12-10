@@ -5675,7 +5675,7 @@
     "market_cap_usd": 18582941
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -8273,31 +8273,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 9601217
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00033412782421874987,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 9.758057590453632,
-    "price_change_7D_percent": 0.4514207543689367,
-    "price_change_30D_percent": -8.955781953136839,
-    "price_change_90D_percent": 183.4062674039057,
-    "price_change_180D_percent": 142.5350943678115,
-    "price_change_365D_percent": -4.747331742035942,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 7683.93,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28691071406,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 9586485
   },
   {
     "symbol": "EON",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4364228
+  },
+  {
+    "symbol": "POA",
+    "display_symbol": "POA",
+    "name": "POA Network",
+    "aliases": "",
+    "shortname": "poa-network",
+    "last_price_usd": 0.015708195362318836,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 8.441272560764174,
+    "price_change_7D_percent": 13.44723378356524,
+    "price_change_30D_percent": 16.549930809284596,
+    "price_change_90D_percent": 78.615420502792,
+    "price_change_180D_percent": 35.02858868606034,
+    "price_change_365D_percent": -25.677301768840326,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 1499645,
+    "display": "true",
+    "trading_since": "2018-02-28 08:15:00",
+    "supply": 277524372,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 4359407
   }
 ]

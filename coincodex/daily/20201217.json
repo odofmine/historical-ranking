@@ -8100,6 +8100,31 @@
     "market_cap_usd": 18060619
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19765299892013902,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.9667163166973294,
+    "price_change_7D_percent": -12.449417161499904,
+    "price_change_30D_percent": 3.0690972885362338,
+    "price_change_90D_percent": -2.9001614848085673,
+    "price_change_180D_percent": 473.3256812099684,
+    "price_change_365D_percent": 476.6342093078393,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 248188,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18055479
+  },
+  {
     "symbol": "XSN",
     "display_symbol": "XSN",
     "name": "Stakenet",
@@ -8275,7 +8300,7 @@
     "market_cap_usd": 17224565
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7601219
-  },
-  {
-    "symbol": "INSTAR",
-    "display_symbol": "INSTAR",
-    "name": "Insights Network",
-    "aliases": "",
-    "shortname": "insights-network",
-    "last_price_usd": 0.038615194621527765,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.2697673486644176,
-    "price_change_7D_percent": 0.9112666540042135,
-    "price_change_30D_percent": -16.369703821301112,
-    "price_change_90D_percent": -10.611866865580454,
-    "price_change_180D_percent": 157.0601336259024,
-    "price_change_365D_percent": 249.6893134802709,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 30264,
-    "display": "true",
-    "trading_since": "2018-03-03 01:10:00",
-    "supply": 196753508,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7597675
   }
 ]

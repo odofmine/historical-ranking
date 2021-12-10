@@ -7300,6 +7300,31 @@
     "market_cap_usd": 17806324
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.1944625566548043,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.3585695629005126,
+    "price_change_7D_percent": 6.411507829942679,
+    "price_change_30D_percent": 0.8009310913716037,
+    "price_change_90D_percent": 5.831328135459919,
+    "price_change_180D_percent": 842.1409788244663,
+    "price_change_365D_percent": 845.8883394661157,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 564480,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17764035
+  },
+  {
     "symbol": "SNL",
     "display_symbol": "SNL",
     "name": "Sport and Leisure",
@@ -7375,7 +7400,7 @@
     "market_cap_usd": 17503640
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6073633
-  },
-  {
-    "symbol": "EVX",
-    "display_symbol": "EVX",
-    "name": "Everex",
-    "aliases": "",
-    "shortname": "everex",
-    "last_price_usd": 0.26724577995486115,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -0.32846629010537554,
-    "price_change_7D_percent": -2.8073299676204124,
-    "price_change_30D_percent": 7.455785350754135,
-    "price_change_90D_percent": -39.717568580199476,
-    "price_change_180D_percent": 55.657530815959625,
-    "price_change_365D_percent": -20.41807458759756,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 177920,
-    "display": "true",
-    "trading_since": "2017-10-10 16:25:00",
-    "supply": 22699999,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6066479
   }
 ]

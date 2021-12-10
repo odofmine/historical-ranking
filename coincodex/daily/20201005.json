@@ -5300,7 +5300,7 @@
     "market_cap_usd": 26107289
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7223,6 +7223,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 15590075
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.16956683612142867,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.3014731576933938,
+    "price_change_7D_percent": -13.95252973453242,
+    "price_change_30D_percent": -20.41729321422516,
+    "price_change_90D_percent": 477.57678001817993,
+    "price_change_180D_percent": 496.06328974130696,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 168571,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15489826
   },
   {
     "symbol": "KDA",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5462214
-  },
-  {
-    "symbol": "MYST",
-    "display_symbol": "MYST",
-    "name": "Mysterium",
-    "aliases": "",
-    "shortname": "mysterium",
-    "last_price_usd": 0.27021098299999907,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0,
-    "price_change_7D_percent": 0,
-    "price_change_30D_percent": 71.8409561528996,
-    "price_change_90D_percent": 259.7383108209531,
-    "price_change_180D_percent": 423.5495936244497,
-    "price_change_365D_percent": 519.9864082796719,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 0,
-    "display": "true",
-    "trading_since": "2017-06-14 14:05:00",
-    "supply": 20186416,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5454591
   }
 ]

@@ -6800,7 +6800,7 @@
     "market_cap_usd": 24003936
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7048,6 +7048,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 22315340
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.24185166331818178,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -7.183199014642759,
+    "price_change_7D_percent": 28.493589705701467,
+    "price_change_30D_percent": 35.04004919100742,
+    "price_change_90D_percent": 25.052782553816584,
+    "price_change_180D_percent": 986.0559311290826,
+    "price_change_365D_percent": 939.8114960179398,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 522859,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 22093000
   },
   {
     "symbol": "MFT",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6865897
-  },
-  {
-    "symbol": "GVT",
-    "display_symbol": "GVT",
-    "name": "Genesis Vision",
-    "aliases": "",
-    "shortname": "genesis-vision",
-    "last_price_usd": 1.5488207777700351,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 3.7572025456444447,
-    "price_change_7D_percent": 23.52049979420259,
-    "price_change_30D_percent": 18.471890288035464,
-    "price_change_90D_percent": -23.42761122110117,
-    "price_change_180D_percent": 67.17574277039202,
-    "price_change_365D_percent": 44.27394743307103,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 341705,
-    "display": "true",
-    "trading_since": "2017-11-15 20:10:00",
-    "supply": 4426882,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6856448
   }
 ]

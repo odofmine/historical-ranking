@@ -8450,31 +8450,6 @@
     "market_cap_usd": 7851393
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.000271410866666667,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 5.473657300322246,
-    "price_change_7D_percent": -4.961375529050334,
-    "price_change_30D_percent": -33.70701029355499,
-    "price_change_90D_percent": 47.76174323193227,
-    "price_change_180D_percent": 47.53666271942564,
-    "price_change_365D_percent": 8.196227415226955,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5816.61,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28688293941,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7786315
-  },
-  {
     "symbol": "GTO",
     "display_symbol": "GTO",
     "name": "Gifto",
@@ -8500,7 +8475,7 @@
     "market_cap_usd": 7726209
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3511760
+  },
+  {
+    "symbol": "SNPC",
+    "display_symbol": "SNPC",
+    "name": "Earneo",
+    "aliases": "",
+    "shortname": "snapcoin",
+    "last_price_usd": 0.007441632118055549,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.22838156649849956,
+    "price_change_7D_percent": 36.98653060857036,
+    "price_change_30D_percent": 433.52078886232255,
+    "price_change_90D_percent": 4078.6962550508124,
+    "price_change_180D_percent": 3817.282212077938,
+    "price_change_365D_percent": 909.3559612662268,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 113595,
+    "display": "true",
+    "trading_since": "2019-01-08 23:05:00",
+    "supply": 470639448,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3502326
   }
 ]

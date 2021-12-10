@@ -5825,7 +5825,7 @@
     "market_cap_usd": 23145343
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6598,6 +6598,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 19250544
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.20867462822357744,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.1347365529579743,
+    "price_change_7D_percent": -8.42371500086311,
+    "price_change_30D_percent": 7.898132887390259,
+    "price_change_90D_percent": 752.1597701608533,
+    "price_change_180D_percent": 666.0598442354358,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 216630,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19062299
   },
   {
     "symbol": "ADX",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5555403
-  },
-  {
-    "symbol": "MOON",
-    "display_symbol": "MOON",
-    "name": "Mooncoin",
-    "aliases": "",
-    "shortname": "mooncoin",
-    "last_price_usd": 2.4446095238095235e-05,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -20.909831282659287,
-    "price_change_7D_percent": -12.024460161492643,
-    "price_change_30D_percent": -59.149264280697146,
-    "price_change_90D_percent": 151.51987948134445,
-    "price_change_180D_percent": 296.0257106168429,
-    "price_change_365D_percent": -6.161032375009504,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 354.84,
-    "display": "true",
-    "trading_since": "2014-01-06 06:52:37",
-    "supply": 227094694513,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5551579
   }
 ]

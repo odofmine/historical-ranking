@@ -7050,6 +7050,31 @@
     "market_cap_usd": 22554903
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.24491243465248216,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -9.091472509393723,
+    "price_change_7D_percent": 8.917825889837058,
+    "price_change_30D_percent": 34.018095339224615,
+    "price_change_90D_percent": 4.348150594341395,
+    "price_change_180D_percent": 502.8524972949099,
+    "price_change_365D_percent": 987.5083432138757,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 687378,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 22372600
+  },
+  {
     "symbol": "ANKR",
     "display_symbol": "ANKR",
     "name": "Ankr Network",
@@ -7750,7 +7775,7 @@
     "market_cap_usd": 18373116
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6978148
-  },
-  {
-    "symbol": "PLA2",
-    "display_symbol": "PLA",
-    "name": "PlayChip",
-    "aliases": "",
-    "shortname": "playchip",
-    "last_price_usd": 0.0004947801460674159,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -5.688228903730126,
-    "price_change_7D_percent": -18.0836522915045,
-    "price_change_30D_percent": -17.48100018369561,
-    "price_change_90D_percent": 16.758969909386636,
-    "price_change_180D_percent": 61.703643908807656,
-    "price_change_365D_percent": -20.85580564357794,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 55.82,
-    "display": "true",
-    "trading_since": "2019-02-08 20:25:00",
-    "supply": 14009105692,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6931427
   }
 ]

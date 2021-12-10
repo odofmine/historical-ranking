@@ -8000,6 +8000,31 @@
     "market_cap_usd": 18250542
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19958239449295767,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -7.346932325473679,
+    "price_change_7D_percent": -11.106386437804092,
+    "price_change_30D_percent": 3.890294425028199,
+    "price_change_90D_percent": -0.9995613857618937,
+    "price_change_180D_percent": 449.42767067073834,
+    "price_change_365D_percent": 447.6247035640262,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 238819,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18231729
+  },
+  {
     "symbol": "POLS",
     "display_symbol": "POLS",
     "name": "Polkastarter",
@@ -8200,7 +8225,7 @@
     "market_cap_usd": 17238166
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7483826
-  },
-  {
-    "symbol": "DEPAY",
-    "display_symbol": "DEPAY",
-    "name": "DePay",
-    "aliases": "",
-    "shortname": "depay",
-    "last_price_usd": 1.8996468625629417,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -4.605240010609109,
-    "price_change_7D_percent": 23.566080992527024,
-    "price_change_30D_percent": null,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 82502,
-    "display": "true",
-    "trading_since": "2020-11-21 16:00:00",
-    "supply": 3863491,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7339269
   }
 ]

@@ -6625,31 +6625,6 @@
     "market_cap_usd": 11269635
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00039288908064516134,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 7.055673109915142,
-    "price_change_7D_percent": 3.4996310355997142,
-    "price_change_30D_percent": 244.91524388435556,
-    "price_change_90D_percent": 245.19584665294306,
-    "price_change_180D_percent": 152.06793070885112,
-    "price_change_365D_percent": 5.0961126436039486,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 10170,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28683808073,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 11269555
-  },
-  {
     "symbol": "IHF",
     "display_symbol": "IHF",
     "name": "Invictus Hyperion Fund",
@@ -8700,7 +8675,7 @@
     "market_cap_usd": 7252531
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3375228
+  },
+  {
+    "symbol": "VIBE",
+    "display_symbol": "VIBE",
+    "name": "VIBE",
+    "aliases": "",
+    "shortname": "vibe",
+    "last_price_usd": 0.012955971724,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -3.047061240207326,
+    "price_change_7D_percent": 0.2624059769525289,
+    "price_change_30D_percent": 39.63266876458475,
+    "price_change_90D_percent": 64.47441962828627,
+    "price_change_180D_percent": 5.94062901475171,
+    "price_change_365D_percent": -68.69397814917816,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 95321,
+    "display": "true",
+    "trading_since": "2017-09-25 03:20:00",
+    "supply": 260136426,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3370320
   }
 ]

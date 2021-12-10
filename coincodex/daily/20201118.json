@@ -7475,6 +7475,31 @@
     "market_cap_usd": 17483561
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.1882208006423611,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.8494628509426354,
+    "price_change_7D_percent": -6.01803375033442,
+    "price_change_30D_percent": -4.45046297370857,
+    "price_change_90D_percent": -6.998675872512504,
+    "price_change_180D_percent": 795.0132273512638,
+    "price_change_365D_percent": 727.5437545402169,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 454385,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17193854
+  },
+  {
     "symbol": "NAS",
     "display_symbol": "NAS",
     "name": "Nebulas Token",
@@ -7650,7 +7675,7 @@
     "market_cap_usd": 16456564
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6335967
-  },
-  {
-    "symbol": "SHA2",
-    "display_symbol": "SHA",
-    "name": "Safe Haven",
-    "aliases": "",
-    "shortname": "safe-haven",
-    "last_price_usd": 0.0021031099090909073,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -6.100381466440477,
-    "price_change_7D_percent": -8.61296228511183,
-    "price_change_30D_percent": -18.3723138940454,
-    "price_change_90D_percent": -56.49401506485564,
-    "price_change_180D_percent": 978.6617236610541,
-    "price_change_365D_percent": 145.74671072578485,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 274643,
-    "display": "true",
-    "trading_since": "2019-04-02 21:45:00",
-    "supply": 3005855396,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6321644
   }
 ]

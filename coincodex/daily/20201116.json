@@ -7425,6 +7425,31 @@
     "market_cap_usd": 17605611
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19210879668551242,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.210392380817096,
+    "price_change_7D_percent": -3.685637362204578,
+    "price_change_30D_percent": 0.1690184377082417,
+    "price_change_90D_percent": -1.1147915358435563,
+    "price_change_180D_percent": 815.4659374788174,
+    "price_change_365D_percent": 811.1773521722336,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 540528,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17549020
+  },
+  {
     "symbol": "NAS",
     "display_symbol": "NAS",
     "name": "Nebulas Token",
@@ -7550,7 +7575,7 @@
     "market_cap_usd": 16933417
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6176664
-  },
-  {
-    "symbol": "TRADE3",
-    "display_symbol": "TRADE",
-    "name": "Unitrade",
-    "aliases": "",
-    "shortname": "unitrade",
-    "last_price_usd": 0.21087293645837163,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.251130793039078,
-    "price_change_7D_percent": -13.373203078398138,
-    "price_change_30D_percent": -27.288070534124415,
-    "price_change_90D_percent": -57.98499491901187,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 249441,
-    "display": "true",
-    "trading_since": "2020-08-04 16:00:00",
-    "supply": 29087172,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6133697
   }
 ]

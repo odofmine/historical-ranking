@@ -6150,7 +6150,7 @@
     "market_cap_usd": 20440214
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6373,6 +6373,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 19121717
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2085548185438598,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.3452431517982289,
+    "price_change_7D_percent": -2.7257174895358656,
+    "price_change_30D_percent": 3.06981267618878,
+    "price_change_90D_percent": 579.739176551204,
+    "price_change_180D_percent": 729.171416919296,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 1344637,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19051354
   },
   {
     "symbol": "XSN",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5418737
-  },
-  {
-    "symbol": "CPT3",
-    "display_symbol": "CPT",
-    "name": "Contents Protocol",
-    "aliases": "",
-    "shortname": "contents-protocol",
-    "last_price_usd": 0.0017528149999999968,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0,
-    "price_change_7D_percent": 0,
-    "price_change_30D_percent": 0,
-    "price_change_90D_percent": 0,
-    "price_change_180D_percent": 4.147619583827665,
-    "price_change_365D_percent": -21.488062653742773,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 0,
-    "display": "true",
-    "trading_since": "2019-04-09 09:20:00",
-    "supply": 3070627533,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5382242
   }
 ]

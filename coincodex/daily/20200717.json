@@ -6200,7 +6200,7 @@
     "market_cap_usd": 14226465
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -8098,31 +8098,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 8946626
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00030777212184873937,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.4335916213814521,
-    "price_change_7D_percent": 16.46001040220695,
-    "price_change_30D_percent": -23.397398862903096,
-    "price_change_90D_percent": 92.11840198149926,
-    "price_change_180D_percent": 103.87025897235003,
-    "price_change_365D_percent": 29.654729803093876,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 7348.03,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28690177088,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8830037
   },
   {
     "symbol": "VALOR",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3858811
+  },
+  {
+    "symbol": "LGO",
+    "display_symbol": "LGO",
+    "name": "Legolas Exchange",
+    "aliases": "",
+    "shortname": "legolas-exchange",
+    "last_price_usd": 0.029437294963302774,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -8.21681477388168,
+    "price_change_7D_percent": -12.97373683320815,
+    "price_change_30D_percent": 226.67765348613682,
+    "price_change_90D_percent": 68.42950430663807,
+    "price_change_180D_percent": 86.0516674075192,
+    "price_change_365D_percent": -41.77128185053382,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 1095.99,
+    "display": "true",
+    "trading_since": "2018-03-21 20:20:00",
+    "supply": 130647963,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3845923
   }
 ]

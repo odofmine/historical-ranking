@@ -7950,7 +7950,7 @@
     "market_cap_usd": 7341092
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9648,31 +9648,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5376480
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00018794742412451363,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 18.73277477841988,
-    "price_change_7D_percent": 3.188637062484365,
-    "price_change_30D_percent": -9.391946885653011,
-    "price_change_90D_percent": -42.90846412775866,
-    "price_change_180D_percent": -31.231119473739476,
-    "price_change_365D_percent": -70.16853392714935,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 7184.68,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28592055410,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5373803
   },
   {
     "symbol": "ARRR",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3340338
+  },
+  {
+    "symbol": "RTH",
+    "display_symbol": "RTH",
+    "name": "Rotharium",
+    "aliases": "",
+    "shortname": "rotharium",
+    "last_price_usd": 0.9931795972707587,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 5.0507352147554165,
+    "price_change_7D_percent": -36.42670247001756,
+    "price_change_30D_percent": 61.87977025618427,
+    "price_change_90D_percent": 16.910903587049578,
+    "price_change_180D_percent": 22.457765863928476,
+    "price_change_365D_percent": -76.89235376050631,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 82952,
+    "display": "true",
+    "trading_since": "2018-09-12 22:05:00",
+    "supply": 3357270,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3334372
   }
 ]

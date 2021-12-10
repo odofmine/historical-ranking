@@ -5150,7 +5150,7 @@
     "market_cap_usd": 28610761
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6973,6 +6973,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 17286877
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.18765076854135324,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.7303000165675295,
+    "price_change_7D_percent": -10.023287952999448,
+    "price_change_30D_percent": -28.530754020473776,
+    "price_change_90D_percent": 577.7189133693549,
+    "price_change_180D_percent": 568.1007265147477,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 279752,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17141782
   },
   {
     "symbol": "GBYTE",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5636866
-  },
-  {
-    "symbol": "CET",
-    "display_symbol": "CET",
-    "name": "CoinEx Token",
-    "aliases": "",
-    "shortname": "coinex-token",
-    "last_price_usd": 0.007953100749090912,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.5541093086481028,
-    "price_change_7D_percent": -9.747346047850835,
-    "price_change_30D_percent": -37.374823998033435,
-    "price_change_90D_percent": -26.62410948954308,
-    "price_change_180D_percent": -14.167858858365395,
-    "price_change_365D_percent": -55.39483679911691,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 566097,
-    "display": "true",
-    "trading_since": "2018-07-02 23:30:00",
-    "supply": 708633581,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5635834
   }
 ]

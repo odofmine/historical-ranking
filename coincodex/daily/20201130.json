@@ -7000,6 +7000,31 @@
     "market_cap_usd": 21124448
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2309885323763066,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.866872912593938,
+    "price_change_7D_percent": -8.804565942074312,
+    "price_change_30D_percent": 31.91611596833086,
+    "price_change_90D_percent": -7.090753569260574,
+    "price_change_180D_percent": 953.1186921344587,
+    "price_change_365D_percent": 903.7157182516312,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 569980,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 21100660
+  },
+  {
     "symbol": "RCN",
     "display_symbol": "RCN",
     "name": "Ripio Credit Network",
@@ -7475,7 +7500,7 @@
     "market_cap_usd": 18989091
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6608036
-  },
-  {
-    "symbol": "ROOBEE",
-    "display_symbol": "ROOBEE",
-    "name": "Roobee",
-    "aliases": "",
-    "shortname": "roobee",
-    "last_price_usd": 0.003130205087412586,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 1.7062502158785349,
-    "price_change_7D_percent": -7.853051449900544,
-    "price_change_30D_percent": -18.914147560952333,
-    "price_change_90D_percent": -18.08319477162329,
-    "price_change_180D_percent": -22.35293986002914,
-    "price_change_365D_percent": -16.397899246628327,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 564041,
-    "display": "true",
-    "trading_since": "2019-06-04 13:55:00",
-    "supply": 2107791616,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6597820
   }
 ]

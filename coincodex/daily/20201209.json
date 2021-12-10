@@ -7225,6 +7225,31 @@
     "market_cap_usd": 20557451
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22451826008098602,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -8.327129082046978,
+    "price_change_7D_percent": -2.5984896868977483,
+    "price_change_30D_percent": 12.562951272068009,
+    "price_change_90D_percent": -6.0815516543030625,
+    "price_change_180D_percent": 485.314653541996,
+    "price_change_365D_percent": 870.4756726556799,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 563242,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20509605
+  },
+  {
     "symbol": "XLT",
     "display_symbol": "XLT",
     "name": "Nexalt",
@@ -7950,7 +7975,7 @@
     "market_cap_usd": 17162652
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6867596
-  },
-  {
-    "symbol": "XPX",
-    "display_symbol": "XPX",
-    "name": "ProximaX",
-    "aliases": "",
-    "shortname": "proximax",
-    "last_price_usd": 0.0011192788245614031,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.1981988635667937,
-    "price_change_7D_percent": -17.61837933340069,
-    "price_change_30D_percent": -25.176934112960474,
-    "price_change_90D_percent": 3.6564590978983937,
-    "price_change_180D_percent": 28.35761481187485,
-    "price_change_365D_percent": 43.63570899228479,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 159709,
-    "display": "true",
-    "trading_since": "2018-08-09 00:20:00",
-    "supply": 6097456550,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6824754
   }
 ]

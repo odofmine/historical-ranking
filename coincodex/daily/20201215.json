@@ -7575,6 +7575,31 @@
     "market_cap_usd": 19788497
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.21540829624125882,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.1902796119754997,
+    "price_change_7D_percent": -12.046811119691887,
+    "price_change_30D_percent": 10.771091333348998,
+    "price_change_90D_percent": 0.4708863116645155,
+    "price_change_180D_percent": 478.8959124492723,
+    "price_change_365D_percent": 545.3158897610359,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 196812,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19677415
+  },
+  {
     "symbol": "CVP",
     "display_symbol": "CVP",
     "name": "PowerPool",
@@ -8125,7 +8150,7 @@
     "market_cap_usd": 17528985
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7450923
-  },
-  {
-    "symbol": "PEAK",
-    "display_symbol": "PEAK",
-    "name": "PEAKDEFI",
-    "aliases": "",
-    "shortname": "marketpeak",
-    "last_price_usd": 0.31897471032188823,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.3502354518041892,
-    "price_change_7D_percent": 17.86499534443954,
-    "price_change_30D_percent": 32.043214216617464,
-    "price_change_90D_percent": 118.82941944693361,
-    "price_change_180D_percent": 151.24847916271793,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 328327,
-    "display": "true",
-    "trading_since": "2020-03-23 12:55:00",
-    "supply": 23325009,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7440088
   }
 ]

@@ -8150,31 +8150,6 @@
     "market_cap_usd": 8214687
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00028557954008438834,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 1.1406611039781265,
-    "price_change_7D_percent": -9.21379631924282,
-    "price_change_30D_percent": 48.48505824090272,
-    "price_change_90D_percent": 100.9975425256877,
-    "price_change_180D_percent": 58.31088929488336,
-    "price_change_365D_percent": -15.03921560810105,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5309.12,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28686280512,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8192215
-  },
-  {
     "symbol": "QRL",
     "display_symbol": "QRL",
     "name": "Quantum Resistant Ledger",
@@ -9250,7 +9225,7 @@
     "market_cap_usd": 6244327
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3389745
+  },
+  {
+    "symbol": "BOX3",
+    "display_symbol": "BOX",
+    "name": "BOX Token",
+    "aliases": "",
+    "shortname": "box-token",
+    "last_price_usd": 0.033866216082644604,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.0063648079558135656,
+    "price_change_7D_percent": -3.268732549966006,
+    "price_change_30D_percent": -9.033766359958237,
+    "price_change_90D_percent": 52.524992909213275,
+    "price_change_180D_percent": 8.2652594426895,
+    "price_change_365D_percent": -66.67311479343454,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 9487.24,
+    "display": "true",
+    "trading_since": "2018-10-19 18:55:00",
+    "supply": 99609050,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3373382
   }
 ]

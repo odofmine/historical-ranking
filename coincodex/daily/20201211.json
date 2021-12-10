@@ -7200,6 +7200,31 @@
     "market_cap_usd": 19779460
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2141002135017544,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -5.164107904582855,
+    "price_change_7D_percent": -10.898192568422433,
+    "price_change_30D_percent": 6.9040136408786745,
+    "price_change_90D_percent": -12.225298096427785,
+    "price_change_180D_percent": 429.7218161769101,
+    "price_change_365D_percent": 750.4150577454154,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 571421,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19557922
+  },
+  {
     "symbol": "FLG",
     "display_symbol": "FLG",
     "name": "Folgory Coin",
@@ -8250,7 +8275,7 @@
     "market_cap_usd": 15896842
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6684736
-  },
-  {
-    "symbol": "VID",
-    "display_symbol": "VID",
-    "name": "VideoCoin",
-    "aliases": "",
-    "shortname": "videocoin",
-    "last_price_usd": 0.04557615929370631,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0.9371899007428963,
-    "price_change_7D_percent": 3.8124382490727275,
-    "price_change_30D_percent": -20.927080066948403,
-    "price_change_90D_percent": -26.468038403977467,
-    "price_change_180D_percent": -59.94667967113859,
-    "price_change_365D_percent": -30.417115149564744,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 125080,
-    "display": "true",
-    "trading_since": "2019-08-27 11:15:00",
-    "supply": 145923028,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6650611
   }
 ]

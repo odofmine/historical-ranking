@@ -6375,31 +6375,6 @@
     "market_cap_usd": 11677494
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00040441136071428546,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 7.599734300366724,
-    "price_change_7D_percent": 8.477626759973406,
-    "price_change_30D_percent": 255.67196388382106,
-    "price_change_90D_percent": 296.1728599667425,
-    "price_change_180D_percent": 162.25022099201075,
-    "price_change_365D_percent": 14.297870625624249,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 6291.16,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28683252990,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 11599833
-  },
-  {
     "symbol": "COS",
     "display_symbol": "COS",
     "name": "Contentos",
@@ -8075,7 +8050,7 @@
     "market_cap_usd": 8019081
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3392729
+  },
+  {
+    "symbol": "AAB",
+    "display_symbol": "AAB",
+    "name": "AAX Token",
+    "aliases": "",
+    "shortname": "aax-token",
+    "last_price_usd": 0.3384128639583332,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -9.448699484497926,
+    "price_change_7D_percent": -31.326640106601726,
+    "price_change_30D_percent": -75.58603974761887,
+    "price_change_90D_percent": null,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 510214,
+    "display": "true",
+    "trading_since": "2020-04-26 15:30:00",
+    "supply": 10000000,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3384129
   }
 ]

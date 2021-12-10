@@ -7900,7 +7900,7 @@
     "market_cap_usd": 7010225
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -10275,31 +10275,6 @@
     "market_cap_usd": 4557923
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00015917840671641776,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 8.491979592945938,
-    "price_change_7D_percent": -13.415440909580301,
-    "price_change_30D_percent": -30.664468574867477,
-    "price_change_90D_percent": -61.664080074076935,
-    "price_change_180D_percent": -48.4699887298628,
-    "price_change_365D_percent": -75.73634823570117,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 1636.64,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28583049501,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4549804
-  },
-  {
     "symbol": "KEY",
     "display_symbol": "KEY",
     "name": "Selfkey",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3145175
+  },
+  {
+    "symbol": "SHA2",
+    "display_symbol": "SHA",
+    "name": "Safe Haven",
+    "aliases": "",
+    "shortname": "safe-haven",
+    "last_price_usd": 0.0010371730000000017,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0,
+    "price_change_7D_percent": 126.38383229873395,
+    "price_change_30D_percent": 68.96788406957396,
+    "price_change_90D_percent": -33.991126883277865,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 0,
+    "display": "true",
+    "trading_since": "2019-04-02 21:45:00",
+    "supply": 3005855396,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3117592
   }
 ]

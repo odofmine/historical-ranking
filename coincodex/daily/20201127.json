@@ -6900,6 +6900,31 @@
     "market_cap_usd": 20769886
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22687475490243905,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.339632023137838,
+    "price_change_7D_percent": 28.597493162084263,
+    "price_change_30D_percent": 23.98897421881955,
+    "price_change_90D_percent": 2.878600536619815,
+    "price_change_180D_percent": 920.5564365643934,
+    "price_change_365D_percent": 910.5224140158139,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 444866,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20724869
+  },
+  {
     "symbol": "FCT",
     "display_symbol": "FCT",
     "name": "Factom",
@@ -7200,7 +7225,7 @@
     "market_cap_usd": 18411404
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6152392
-  },
-  {
-    "symbol": "EVX",
-    "display_symbol": "EVX",
-    "name": "Everex",
-    "aliases": "",
-    "shortname": "everex",
-    "last_price_usd": 0.2694843961562499,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -3.657369722458325,
-    "price_change_7D_percent": 3.316182528138429,
-    "price_change_30D_percent": 15.0318916164634,
-    "price_change_90D_percent": -41.22050005017465,
-    "price_change_180D_percent": 25.902182479188856,
-    "price_change_365D_percent": -5.278367833157704,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 411261,
-    "display": "true",
-    "trading_since": "2017-10-10 16:25:00",
-    "supply": 22700000,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6117296
   }
 ]

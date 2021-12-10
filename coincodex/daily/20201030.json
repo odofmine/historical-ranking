@@ -7275,6 +7275,31 @@
     "market_cap_usd": 15984256
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.1730092246979168,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -4.076681249521482,
+    "price_change_7D_percent": -10.893075786749707,
+    "price_change_30D_percent": -7.802549361906734,
+    "price_change_90D_percent": 211.5952453600638,
+    "price_change_180D_percent": 657.6680486932529,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 517473,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15804286
+  },
+  {
     "symbol": "JUL3",
     "display_symbol": "JUL",
     "name": "JustLiquidity",
@@ -7400,7 +7425,7 @@
     "market_cap_usd": 15439242
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5311347
-  },
-  {
-    "symbol": "HYC",
-    "display_symbol": "HYC",
-    "name": "HYCON",
-    "aliases": "",
-    "shortname": "hycon",
-    "last_price_usd": 0.0022984003263888885,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.1554429197038676,
-    "price_change_7D_percent": -22.54733480817923,
-    "price_change_30D_percent": -30.586721958297392,
-    "price_change_90D_percent": -42.21408583205508,
-    "price_change_180D_percent": 72.24234901656826,
-    "price_change_365D_percent": -50.27564874362231,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 590216,
-    "display": "true",
-    "trading_since": "2018-07-24 11:45:00",
-    "supply": 2299244808,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5284585
   }
 ]

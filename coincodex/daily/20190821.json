@@ -8150,7 +8150,7 @@
     "market_cap_usd": 6703841
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9398,31 +9398,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5279995
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0001838415629629629,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -9.757526150108035,
-    "price_change_7D_percent": -10.08824951733594,
-    "price_change_30D_percent": -47.590717864094444,
-    "price_change_90D_percent": -54.77993203565647,
-    "price_change_180D_percent": -43.8009708246951,
-    "price_change_365D_percent": -65.15929631888669,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 6708.74,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28580466530,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5254278
   },
   {
     "symbol": "NIX",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3183526
+  },
+  {
+    "symbol": "IHT",
+    "display_symbol": "IHT",
+    "name": "IHT Real Estate Protocol",
+    "aliases": "",
+    "shortname": "iht-real-estate-protocol",
+    "last_price_usd": 0.004606226418439714,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -7.846638572290508,
+    "price_change_7D_percent": -14.78622789196497,
+    "price_change_30D_percent": -38.9134619053369,
+    "price_change_90D_percent": -78.68667458370568,
+    "price_change_180D_percent": -55.46355124120911,
+    "price_change_365D_percent": -72.42101894265242,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 225429,
+    "display": "true",
+    "trading_since": "2018-03-01 20:35:00",
+    "supply": 688815674,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3172841
   }
 ]

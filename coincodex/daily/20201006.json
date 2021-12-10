@@ -5350,7 +5350,7 @@
     "market_cap_usd": 25036569
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7273,6 +7273,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 15334042
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.16702845413454548,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.4969802143771966,
+    "price_change_7D_percent": -12.529875555073348,
+    "price_change_30D_percent": -27.41136759133286,
+    "price_change_90D_percent": 443.6592559316755,
+    "price_change_180D_percent": 515.977173226135,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 182528,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15257946
   },
   {
     "symbol": "FSN",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5316352
-  },
-  {
-    "symbol": "ANJ",
-    "display_symbol": "ANJ",
-    "name": "Aragon Court",
-    "aliases": "",
-    "shortname": "aragon-court",
-    "last_price_usd": 0.04419877528571432,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -8.036719993968356,
-    "price_change_7D_percent": -8.467708919238147,
-    "price_change_30D_percent": -31.023135953843926,
-    "price_change_90D_percent": 133.14350487123852,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 167366,
-    "display": "true",
-    "trading_since": "2020-05-04 13:10:00",
-    "supply": 120164740,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5311134
   }
 ]

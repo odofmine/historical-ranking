@@ -6825,7 +6825,7 @@
     "market_cap_usd": 11993920
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7598,31 +7598,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 10362311
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00036180806944444426,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 9.719039815973114,
-    "price_change_7D_percent": -5.000511407454351,
-    "price_change_30D_percent": -12.86352549384802,
-    "price_change_90D_percent": 37.77235447558717,
-    "price_change_180D_percent": 48.61233778419857,
-    "price_change_365D_percent": -73.36007155131243,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 16427,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28557008522,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 10332156
   },
   {
     "symbol": "NEC",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 4115790
+  },
+  {
+    "symbol": "WWB",
+    "display_symbol": "WWB",
+    "name": "Wowoo",
+    "aliases": "",
+    "shortname": "wowbit",
+    "last_price_usd": 0.014571645371024738,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.6923978631500161,
+    "price_change_7D_percent": -13.357974212567575,
+    "price_change_30D_percent": -11.02144354169691,
+    "price_change_90D_percent": 12.62411209224849,
+    "price_change_180D_percent": -29.11819319452682,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 189598,
+    "display": "true",
+    "trading_since": "2018-07-03 21:55:00",
+    "supply": 277777778,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 4047679
   }
 ]

@@ -7275,31 +7275,6 @@
     "market_cap_usd": 8611172
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0003009914929078015,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -14.193788292093684,
-    "price_change_7D_percent": 12.72563346234589,
-    "price_change_30D_percent": -19.48609059976835,
-    "price_change_90D_percent": 30.760395370952974,
-    "price_change_180D_percent": 27.092992122454984,
-    "price_change_365D_percent": -67.72831810890827,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 22039,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28567833415,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8598675
-  },
-  {
     "symbol": "SMART",
     "display_symbol": "SMART",
     "name": "SmartCash",
@@ -7975,7 +7950,7 @@
     "market_cap_usd": 7468650
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3298252
+  },
+  {
+    "symbol": "COLX",
+    "display_symbol": "COLX",
+    "name": "ColossusCoinXT",
+    "aliases": "",
+    "shortname": "colossuscoinxt",
+    "last_price_usd": 0.00030290620996441297,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -3.523425471228572,
+    "price_change_7D_percent": -2.7271346073556564,
+    "price_change_30D_percent": -6.396385210706177,
+    "price_change_90D_percent": -13.905114397625296,
+    "price_change_180D_percent": -8.97488740282425,
+    "price_change_365D_percent": -69.70168929230111,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 912.41,
+    "display": "true",
+    "trading_since": "2017-09-29 21:30:00",
+    "supply": 10724738924,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3248590
   }
 ]

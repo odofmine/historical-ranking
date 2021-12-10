@@ -7500,6 +7500,31 @@
     "market_cap_usd": 20062431
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.21800314320833336,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -4.0642300602948636,
+    "price_change_7D_percent": -19.07987536233292,
+    "price_change_30D_percent": 10.582429110126489,
+    "price_change_90D_percent": 0.7694000484112201,
+    "price_change_180D_percent": 504.17896962435344,
+    "price_change_365D_percent": 670.0389740174543,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 194228,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19914453
+  },
+  {
     "symbol": "KLV",
     "display_symbol": "KLV",
     "name": "Klever",
@@ -8075,7 +8100,7 @@
     "market_cap_usd": 17640323
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7322339
-  },
-  {
-    "symbol": "ELAMA",
-    "display_symbol": "ELAMA",
-    "name": "Elamachain",
-    "aliases": "",
-    "shortname": "elamachain",
-    "last_price_usd": 0.009910718668989552,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.806333866453066,
-    "price_change_7D_percent": -10.615925336937597,
-    "price_change_30D_percent": -17.07589091475226,
-    "price_change_90D_percent": -68.8962917676885,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 1301787,
-    "display": "true",
-    "trading_since": "2020-07-14 13:00:00",
-    "supply": 737916625,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7313284
   }
 ]

@@ -7125,6 +7125,31 @@
     "market_cap_usd": 22142186
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.24101154958741272,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.3014631741494611,
+    "price_change_7D_percent": 4.643962015580276,
+    "price_change_30D_percent": 37.59903384870563,
+    "price_change_90D_percent": 4.740829159273363,
+    "price_change_180D_percent": 816.2254525016781,
+    "price_change_365D_percent": 928.2932798605812,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 584617,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 22016256
+  },
+  {
     "symbol": "RCN",
     "display_symbol": "RCN",
     "name": "Ripio Credit Network",
@@ -7550,7 +7575,7 @@
     "market_cap_usd": 19682099
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6776608
-  },
-  {
-    "symbol": "PMEER",
-    "display_symbol": "PMEER",
-    "name": "Qitmeer",
-    "aliases": "",
-    "shortname": "qitmeer",
-    "last_price_usd": 0.05417726665467626,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -0.25968751730657713,
-    "price_change_7D_percent": -4.161204414594155,
-    "price_change_30D_percent": 39.49776575621215,
-    "price_change_90D_percent": 164.37815559217407,
-    "price_change_180D_percent": 75.76754731233667,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 161547,
-    "display": "true",
-    "trading_since": "2020-01-27 12:40:00",
-    "supply": 124930510,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6768394
   }
 ]

@@ -6925,7 +6925,7 @@
     "market_cap_usd": 19100572
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7023,6 +7023,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 18804702
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.20458596677859783,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 2.5698319644090866,
+    "price_change_7D_percent": 13.192543721228308,
+    "price_change_30D_percent": 1.7690296002978727,
+    "price_change_90D_percent": 100.38231984568287,
+    "price_change_180D_percent": 799.6630337500554,
+    "price_change_365D_percent": 588.5234974365834,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 585879,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18688802
   },
   {
     "symbol": "WRX",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6072379
-  },
-  {
-    "symbol": "PMA",
-    "display_symbol": "PMA",
-    "name": "PumaPay",
-    "aliases": "",
-    "shortname": "pumapay",
-    "last_price_usd": 0.0002277044645390069,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -13.260314861080632,
-    "price_change_7D_percent": 1.3800245987377553,
-    "price_change_30D_percent": -30.53822897610987,
-    "price_change_90D_percent": -35.10357867668912,
-    "price_change_180D_percent": 135.748953409408,
-    "price_change_365D_percent": -4.214244990496411,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 2916.31,
-    "display": "true",
-    "trading_since": "2018-08-01 04:10:00",
-    "supply": 26476422231,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6028800
   }
 ]

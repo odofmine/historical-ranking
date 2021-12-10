@@ -6225,7 +6225,7 @@
     "market_cap_usd": 19514686
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6448,6 +6448,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 18753442
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2052638921286766,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.5779670966897845,
+    "price_change_7D_percent": 1.8186769631210173,
+    "price_change_30D_percent": 1.7972179417632042,
+    "price_change_90D_percent": 596.5868019650494,
+    "price_change_180D_percent": 675.2007652683844,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 606447,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18750730
   },
   {
     "symbol": "LOOM",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5341850
-  },
-  {
-    "symbol": "RIO",
-    "display_symbol": "RIO",
-    "name": "Realio Network",
-    "aliases": "",
-    "shortname": "realio-network",
-    "last_price_usd": 0.6082296907763155,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 532388.5232318226,
-    "price_change_7D_percent": 532388.5232318226,
-    "price_change_30D_percent": null,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 484023,
-    "display": "true",
-    "trading_since": "2020-08-25 20:00:00",
-    "supply": 8752792,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5323708
   }
 ]

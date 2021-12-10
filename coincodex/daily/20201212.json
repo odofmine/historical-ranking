@@ -7225,6 +7225,31 @@
     "market_cap_usd": 20509766
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22443624574468088,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 4.827660876126022,
+    "price_change_7D_percent": -6.877389847543439,
+    "price_change_30D_percent": 13.06227962889941,
+    "price_change_90D_percent": -7.6240942240232,
+    "price_change_180D_percent": 497.0239113172724,
+    "price_change_365D_percent": 728.6466783118899,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 346701,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20502113
+  },
+  {
     "symbol": "CTXC",
     "display_symbol": "CTXC",
     "name": "Cortex",
@@ -8275,7 +8300,7 @@
     "market_cap_usd": 16483004
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6906351
-  },
-  {
-    "symbol": "GAME",
-    "display_symbol": "GAME",
-    "name": "GameCredits",
-    "aliases": "",
-    "shortname": "gamecredits",
-    "last_price_usd": 0.055329027756654006,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -0.3792472877772555,
-    "price_change_7D_percent": -3.733389418919934,
-    "price_change_30D_percent": 0.8385701627750952,
-    "price_change_90D_percent": -15.20245518032313,
-    "price_change_180D_percent": -6.833340523327179,
-    "price_change_365D_percent": 26.18077198432589,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 36020,
-    "display": "true",
-    "trading_since": "2014-09-01 17:00:00",
-    "supply": 124817395,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6906025
   }
 ]

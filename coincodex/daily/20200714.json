@@ -7750,31 +7750,6 @@
     "market_cap_usd": 9550669
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00033262628015564194,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 13.436595747638009,
-    "price_change_7D_percent": 34.7133587779677,
-    "price_change_30D_percent": -11.64511593715234,
-    "price_change_90D_percent": 100.03131621852468,
-    "price_change_180D_percent": 108.8115968054054,
-    "price_change_365D_percent": 20.784339884493043,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 8381.61,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28689527844,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 9542891
-  },
-  {
     "symbol": "NEBL",
     "display_symbol": "NEBL",
     "name": "Neblio",
@@ -7975,7 +7950,7 @@
     "market_cap_usd": 9159884
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3673857
+  },
+  {
+    "symbol": "FLO",
+    "display_symbol": "FLO",
+    "name": "FLO",
+    "aliases": "",
+    "shortname": "florincoin",
+    "last_price_usd": 0.025075654935742944,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -3.3211597021843855,
+    "price_change_7D_percent": 1.1099878003038415,
+    "price_change_30D_percent": -10.511729132324342,
+    "price_change_90D_percent": 17.61979755790608,
+    "price_change_180D_percent": 7.571563419381662,
+    "price_change_365D_percent": -61.31094474376913,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 10022,
+    "display": "true",
+    "trading_since": "2013-11-27 06:05:00",
+    "supply": 145710081,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3653776
   }
 ]

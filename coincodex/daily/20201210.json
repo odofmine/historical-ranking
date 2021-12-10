@@ -7100,6 +7100,31 @@
     "market_cap_usd": 20970640
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22575863290909096,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.5524596652662106,
+    "price_change_7D_percent": -7.078327111956114,
+    "price_change_30D_percent": 10.349031492177616,
+    "price_change_90D_percent": -7.407352298741976,
+    "price_change_180D_percent": 457.90638450183786,
+    "price_change_365D_percent": 830.1745853364255,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 552555,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20622912
+  },
+  {
     "symbol": "MFT",
     "display_symbol": "MFT",
     "name": "Hifi Finance",
@@ -8100,7 +8125,7 @@
     "market_cap_usd": 16886229
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6902902
-  },
-  {
-    "symbol": "EDR2",
-    "display_symbol": "EDR",
-    "name": "Endor Protocol",
-    "aliases": "",
-    "shortname": "endor-protocol",
-    "last_price_usd": 0.0047218169505300325,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -6.174950219897013,
-    "price_change_7D_percent": -21.07484081152148,
-    "price_change_30D_percent": -13.26617402796174,
-    "price_change_90D_percent": 17.40274634728313,
-    "price_change_180D_percent": 6.6704808615025035,
-    "price_change_365D_percent": 57.012180438118634,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 381272,
-    "display": "true",
-    "trading_since": "2018-05-31 22:10:00",
-    "supply": 1457282180,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6881020
   }
 ]

@@ -9325,31 +9325,6 @@
     "market_cap_usd": 4473385
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00015596783269961973,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -14.277735798564962,
-    "price_change_7D_percent": 3.7310979494919496,
-    "price_change_30D_percent": 12.504625518551618,
-    "price_change_90D_percent": -7.443121622449024,
-    "price_change_180D_percent": -15.239096508167169,
-    "price_change_365D_percent": -36.0612138242322,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 6560.93,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28628048403,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 4465055
-  },
-  {
     "symbol": "APIS",
     "display_symbol": "APIS",
     "name": "Apis",
@@ -9475,7 +9450,7 @@
     "market_cap_usd": 4367286
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2570829
+  },
+  {
+    "symbol": "NYN",
+    "display_symbol": "NYN",
+    "name": "Nynja",
+    "aliases": "",
+    "shortname": "nynja",
+    "last_price_usd": 0.001710814470588235,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -5.450894184303732,
+    "price_change_7D_percent": 159.40444291391026,
+    "price_change_30D_percent": 1.517219081120265,
+    "price_change_90D_percent": 16.22838879441121,
+    "price_change_180D_percent": -78.89819248991465,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 105.53,
+    "display": "true",
+    "trading_since": "2019-08-19 10:45:00",
+    "supply": 1500000000,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2566222
   }
 ]

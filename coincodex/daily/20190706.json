@@ -6775,7 +6775,7 @@
     "market_cap_usd": 11541132
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9273,31 +9273,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7352854
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00025613386879432605,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -16.34947642411189,
-    "price_change_7D_percent": -29.207253672473577,
-    "price_change_30D_percent": -29.60427446891933,
-    "price_change_90D_percent": -12.80242444453512,
-    "price_change_180D_percent": 0.8035663920227902,
-    "price_change_365D_percent": -80.4793872672438,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 12841,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28560343711,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7315271
   },
   {
     "symbol": "VEX",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3931093
+  },
+  {
+    "symbol": "XFC",
+    "display_symbol": "XFC",
+    "name": "Footballcoin",
+    "aliases": "",
+    "shortname": "footballcoin",
+    "last_price_usd": 0.010352520591240868,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 1.7701441745487718,
+    "price_change_7D_percent": -5.832475060248565,
+    "price_change_30D_percent": 38.63313783624769,
+    "price_change_90D_percent": 103.20900517434517,
+    "price_change_180D_percent": 100.69872419989335,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 3003.52,
+    "display": "true",
+    "trading_since": "2019-01-03 18:35:00",
+    "supply": 374660526,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3878681
   }
 ]

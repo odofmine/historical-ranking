@@ -6725,6 +6725,31 @@
     "market_cap_usd": 25217944
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2694053477852112,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 5.147731558758769,
+    "price_change_7D_percent": 16.631481664344808,
+    "price_change_30D_percent": 54.00704130550259,
+    "price_change_90D_percent": 15.42766203518994,
+    "price_change_180D_percent": 752.4602274956356,
+    "price_change_365D_percent": 1071.8003543134284,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 849975,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 24610012
+  },
+  {
     "symbol": "FCT",
     "display_symbol": "FCT",
     "name": "Factom",
@@ -7725,7 +7750,7 @@
     "market_cap_usd": 19048548
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7126779
-  },
-  {
-    "symbol": "SWRV",
-    "display_symbol": "SWRV",
-    "name": "Swerve",
-    "aliases": "",
-    "shortname": "swerve",
-    "last_price_usd": 0.822432093686412,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.7993702934147566,
-    "price_change_7D_percent": 30.034467605515847,
-    "price_change_30D_percent": 75.62464002004768,
-    "price_change_90D_percent": -80.14991622940862,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 4596998,
-    "display": "true",
-    "trading_since": "2020-09-08 11:55:00",
-    "supply": 8581455,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7057664
   }
 ]

@@ -6975,6 +6975,31 @@
     "market_cap_usd": 15929186
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.17365001616319442,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -3.923581092852209,
+    "price_change_7D_percent": -5.098796089434619,
+    "price_change_30D_percent": 2.4080062677124787,
+    "price_change_90D_percent": 185.43410139438498,
+    "price_change_180D_percent": 716.0181483540587,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 497381,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15862822
+  },
+  {
     "symbol": "OGN",
     "display_symbol": "OGN",
     "name": "Origin Protocol",
@@ -7800,7 +7825,7 @@
     "market_cap_usd": 13341724
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5229471
-  },
-  {
-    "symbol": "SRN",
-    "display_symbol": "SRN",
-    "name": "SIRIN LABS Token",
-    "aliases": "",
-    "shortname": "sirin-labs-token",
-    "last_price_usd": 0.01062410163286713,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.319154294279064,
-    "price_change_7D_percent": -10.169844385417427,
-    "price_change_30D_percent": 4.212738561519757,
-    "price_change_90D_percent": -12.458682325663782,
-    "price_change_180D_percent": 23.367241189610542,
-    "price_change_365D_percent": 18.976625515470662,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 196867,
-    "display": "true",
-    "trading_since": "2017-12-28 05:15:00",
-    "supply": 491820906,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5225155
   }
 ]

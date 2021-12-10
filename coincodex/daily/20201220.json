@@ -7950,6 +7950,31 @@
     "market_cap_usd": 19820477
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.2109946428298612,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -6.024053247614697,
+    "price_change_7D_percent": -7.148432746716225,
+    "price_change_30D_percent": 19.596303917628095,
+    "price_change_90D_percent": -2.4155381177229858,
+    "price_change_180D_percent": 553.6007722656993,
+    "price_change_365D_percent": 540.6445690039577,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 211729,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19274230
+  },
+  {
     "symbol": "XSR2",
     "display_symbol": "XSR",
     "name": "Xensor",
@@ -8175,7 +8200,7 @@
     "market_cap_usd": 18524334
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7465615
-  },
-  {
-    "symbol": "EVX",
-    "display_symbol": "EVX",
-    "name": "Everex",
-    "aliases": "",
-    "shortname": "everex",
-    "last_price_usd": 0.3286545564375001,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 1.4380525066998817,
-    "price_change_7D_percent": 16.21715715602817,
-    "price_change_30D_percent": 26.001114075315396,
-    "price_change_90D_percent": 27.70830978545068,
-    "price_change_180D_percent": 38.00239978171959,
-    "price_change_365D_percent": 35.99435106724427,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 1902671,
-    "display": "true",
-    "trading_since": "2017-10-10 16:25:00",
-    "supply": 22700000,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7460458
   }
 ]

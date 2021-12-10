@@ -8050,7 +8050,7 @@
     "market_cap_usd": 6749945
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -9473,31 +9473,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5236845
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00018213965168539326,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.0159904685313603,
-    "price_change_7D_percent": 16.853199579290536,
-    "price_change_30D_percent": -22.06570283809665,
-    "price_change_90D_percent": -48.106592468891286,
-    "price_change_180D_percent": -30.11028182858833,
-    "price_change_365D_percent": -68.45795502369768,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 3861.73,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28589000558,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5207191
   },
   {
     "symbol": "CPT2",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3053959
+  },
+  {
+    "symbol": "GEN2",
+    "display_symbol": "GEN",
+    "name": "DAOstack",
+    "aliases": "",
+    "shortname": "daostack",
+    "last_price_usd": 0.07373306238053096,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -6.264029146387129,
+    "price_change_7D_percent": 7.815090109377125,
+    "price_change_30D_percent": 17.542626645955217,
+    "price_change_90D_percent": -60.32678155729456,
+    "price_change_180D_percent": -30.312175350254282,
+    "price_change_365D_percent": -9.991335245016428,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 7353.27,
+    "display": "true",
+    "trading_since": "2018-05-10 19:25:00",
+    "supply": 41295043,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3044810
   }
 ]

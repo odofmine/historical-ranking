@@ -5425,7 +5425,7 @@
     "market_cap_usd": 25327854
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7148,6 +7148,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 15801950
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.17180280349305552,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.3571695295827734,
+    "price_change_7D_percent": -14.832454539828094,
+    "price_change_30D_percent": -24.470910862925145,
+    "price_change_90D_percent": 484.68472976962545,
+    "price_change_180D_percent": 516.0017926546616,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 162693,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 15694080
   },
   {
     "symbol": "KDA",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5409415
-  },
-  {
-    "symbol": "WING2",
-    "display_symbol": "WING",
-    "name": "Wing",
-    "aliases": "",
-    "shortname": "wing",
-    "last_price_usd": 21.62,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -17.543000881676843,
-    "price_change_7D_percent": -2.256746648396293,
-    "price_change_30D_percent": null,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 18509178,
-    "display": "true",
-    "trading_since": "2020-09-17 07:05:00",
-    "supply": 250000,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5404887
   }
 ]

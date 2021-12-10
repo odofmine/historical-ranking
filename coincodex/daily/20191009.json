@@ -8450,7 +8450,7 @@
     "market_cap_usd": 5987587
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -11400,31 +11400,6 @@
     "market_cap_usd": 3423109
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00011961748659003831,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 14.29252714493369,
-    "price_change_7D_percent": -11.035062879913399,
-    "price_change_30D_percent": -33.524692942948185,
-    "price_change_90D_percent": -49.01325959348051,
-    "price_change_180D_percent": -58.765511037184325,
-    "price_change_365D_percent": -75.38100526152047,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5431.63,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28601867450,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 3421283
-  },
-  {
     "symbol": "DTA",
     "display_symbol": "DTA",
     "name": "DATA",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2777649
+  },
+  {
+    "symbol": "SNC",
+    "display_symbol": "SNC",
+    "name": "SunContract",
+    "aliases": "",
+    "shortname": "suncontract",
+    "last_price_usd": 0.02243716004044118,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 2.1874067403608106,
+    "price_change_7D_percent": 3.151566612933263,
+    "price_change_30D_percent": -22.690389844616057,
+    "price_change_90D_percent": -36.79337509268526,
+    "price_change_180D_percent": -41.27297413864712,
+    "price_change_365D_percent": -38.14909132098658,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 259393,
+    "display": "true",
+    "trading_since": "2017-08-14 00:09:21",
+    "supply": 122707502,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2753208
   }
 ]

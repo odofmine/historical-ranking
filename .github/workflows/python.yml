@@ -27,7 +27,7 @@ jobs:
         git config --global user.email "anonymouse@x.com"
         git config --global user.name "anonymouse"
 
-        python update.py
+        python coincodex_statistic.py
 
         git add .
         git commit -m "update"

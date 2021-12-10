@@ -7825,6 +7825,31 @@
     "market_cap_usd": 20653450
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22451983738541662,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 4.272523169611364,
+    "price_change_7D_percent": 0.037245160851082065,
+    "price_change_30D_percent": 22.63699036285043,
+    "price_change_90D_percent": -2.6066463109224967,
+    "price_change_180D_percent": 605.5917850437836,
+    "price_change_365D_percent": 579.8460287301866,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 302275,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20509749
+  },
+  {
     "symbol": "HPT",
     "display_symbol": "HPT",
     "name": "Huobi Pool Token",
@@ -8350,7 +8375,7 @@
     "market_cap_usd": 17811574
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7433763
-  },
-  {
-    "symbol": "GO",
-    "display_symbol": "GO",
-    "name": "GoChain",
-    "aliases": "",
-    "shortname": "gochain",
-    "last_price_usd": 0.007015165197916663,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -0.8880386365935845,
-    "price_change_7D_percent": -14.97881156343511,
-    "price_change_30D_percent": -1.7736759739205465,
-    "price_change_90D_percent": -23.41589452635768,
-    "price_change_180D_percent": -48.45519609826982,
-    "price_change_365D_percent": -54.04186567090391,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 477758,
-    "display": "true",
-    "trading_since": "2018-06-13 20:55:00",
-    "supply": 1059640163,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7433551
   }
 ]

@@ -5550,7 +5550,7 @@
     "market_cap_usd": 24275967
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6748,6 +6748,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 18154476
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19804327697173155,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -1.015422321180089,
+    "price_change_7D_percent": 3.8164486160874276,
+    "price_change_30D_percent": -8.456814381840257,
+    "price_change_90D_percent": 504.45827024594,
+    "price_change_180D_percent": 692.8144353040043,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 304481,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18091131
   },
   {
     "symbol": "CAKE",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5548353
-  },
-  {
-    "symbol": "RNT",
-    "display_symbol": "RNT",
-    "name": "OneRoot Network",
-    "aliases": "",
-    "shortname": "oneroot-network",
-    "last_price_usd": 0.019530387789090907,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 1.8378819929174999,
-    "price_change_7D_percent": 4.6689089162744475,
-    "price_change_30D_percent": 13.557255388015893,
-    "price_change_90D_percent": 57.758760473086525,
-    "price_change_180D_percent": 190.57825142994417,
-    "price_change_365D_percent": 49.96189005727921,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 888187,
-    "display": "true",
-    "trading_since": "2018-01-16 00:10:00",
-    "supply": 284073817,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5548072
   }
 ]

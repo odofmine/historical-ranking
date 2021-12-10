@@ -6425,7 +6425,7 @@
     "market_cap_usd": 20656560
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -7523,6 +7523,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 16373484
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.17909624942160282,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.1793694570619833,
+    "price_change_7D_percent": -9.082504925186262,
+    "price_change_30D_percent": -14.174401101740003,
+    "price_change_90D_percent": 253.6784544075491,
+    "price_change_180D_percent": 642.1411379171021,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 580611,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 16360332
   },
   {
     "symbol": "TSHP",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5708300
-  },
-  {
-    "symbol": "VERI",
-    "display_symbol": "VERI",
-    "name": "Veritaseum",
-    "aliases": "",
-    "shortname": "veritaseum",
-    "last_price_usd": 2.65,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 2.1653034123151187,
-    "price_change_7D_percent": -1.0871320492580918,
-    "price_change_30D_percent": -8.267035028564454,
-    "price_change_90D_percent": -51.29798530046672,
-    "price_change_180D_percent": -67.19747860755967,
-    "price_change_365D_percent": -84.10865843438671,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 824.24,
-    "display": "true",
-    "trading_since": "2017-06-11 03:00:00",
-    "supply": 2149646,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5689339
   }
 ]

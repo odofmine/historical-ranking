@@ -9352,7 +9352,7 @@
   {
     "symbol": "DG",
     "display_symbol": "DG",
-    "name": "Decentral Games",
+    "name": "Decentral Games [Old]",
     "aliases": "",
     "shortname": "decentral-games",
     "last_price_usd": 383.85,
@@ -11975,7 +11975,7 @@
     "market_cap_usd": 79341840
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12302,7 +12302,7 @@
   {
     "symbol": "FOX4",
     "display_symbol": "FOX",
-    "name": "FOX Token",
+    "name": "ShapeShift FOX Token",
     "aliases": "",
     "shortname": "fox-token",
     "last_price_usd": 0.6463274100700823,
@@ -12475,28 +12475,28 @@
     "market_cap_usd": 71779378
   },
   {
-    "symbol": "ELA",
-    "display_symbol": "ELA",
-    "name": "Elastos",
+    "symbol": "DG1",
+    "display_symbol": "DG",
+    "name": "Decentral Games [New]",
     "aliases": "",
-    "shortname": "elastos",
-    "last_price_usd": 3.47,
+    "shortname": "decentral-games-new",
+    "last_price_usd": 0.45103291794341477,
     "price_change_1H_percent": null,
-    "price_change_1D_percent": -17.365462627886775,
-    "price_change_7D_percent": -22.389210497333774,
-    "price_change_30D_percent": -30.852598641579743,
-    "price_change_90D_percent": -6.3380109351493354,
-    "price_change_180D_percent": -16.510711676764302,
-    "price_change_365D_percent": 129.75233878080542,
+    "price_change_1D_percent": -18.04611541399844,
+    "price_change_7D_percent": null,
+    "price_change_30D_percent": null,
+    "price_change_90D_percent": null,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
     "price_change_YTD_percent": null,
-    "volume_24_usd": 2742736,
+    "volume_24_usd": 1018371,
     "display": "true",
-    "trading_since": "2018-02-01 23:00:00",
-    "supply": 20223550,
+    "trading_since": "2021-12-01 16:00:00",
+    "supply": 156045146,
     "last_update": null,
     "ico_end": null,
     "include_supply": "true",
     "use_volume": "true",
-    "market_cap_usd": 70108671
+    "market_cap_usd": 70381498
   }
 ]

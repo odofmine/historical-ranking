@@ -5125,7 +5125,7 @@
     "market_cap_usd": 29061711
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6798,6 +6798,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 18781795
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.20239262552836879,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.6779762199862316,
+    "price_change_7D_percent": 19.358614076772184,
+    "price_change_30D_percent": -17.025059981603807,
+    "price_change_90D_percent": 561.7052641508872,
+    "price_change_180D_percent": 704.5610155884556,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 206827,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 18488441
   },
   {
     "symbol": "MEDX",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5642277
-  },
-  {
-    "symbol": "SOUL2",
-    "display_symbol": "SOUL",
-    "name": "Phantasma Protocol",
-    "aliases": "",
-    "shortname": "phantasma-protocol",
-    "last_price_usd": 0.09959361764179098,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 0.9399881986898241,
-    "price_change_7D_percent": 4.274661347065536,
-    "price_change_30D_percent": 5.71684399327449,
-    "price_change_90D_percent": 152.47594698128563,
-    "price_change_180D_percent": 200.75953361119198,
-    "price_change_365D_percent": 89.46440020718067,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 204063,
-    "display": "true",
-    "trading_since": "2018-05-29 11:45:00",
-    "supply": 56542635,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5631286
   }
 ]

@@ -8150,7 +8150,7 @@
     "market_cap_usd": 8631397
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -8448,31 +8448,6 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 8113475
-  },
-  {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0002799154031620553,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 5.919114987329171,
-    "price_change_7D_percent": 7.965461318901271,
-    "price_change_30D_percent": -28.949853479331573,
-    "price_change_90D_percent": 63.39332305702663,
-    "price_change_180D_percent": 62.415713652391226,
-    "price_change_365D_percent": 17.679054740352694,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 3167.77,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28688868072,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8030456
   },
   {
     "symbol": "UPP",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3700476
+  },
+  {
+    "symbol": "VI",
+    "display_symbol": "VID",
+    "name": "Vid",
+    "aliases": "",
+    "shortname": "vid",
+    "last_price_usd": 0.13043931558391605,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 6.526770606211631,
+    "price_change_7D_percent": -25.548050203652323,
+    "price_change_30D_percent": 870.7644632704975,
+    "price_change_90D_percent": 709.7707310397565,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 317095,
+    "display": "true",
+    "trading_since": "2020-04-10 11:05:00",
+    "supply": 27592381,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3599131
   }
 ]

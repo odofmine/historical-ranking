@@ -7125,6 +7125,31 @@
     "market_cap_usd": 22233421
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.24295584215438618,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 5.400184184096859,
+    "price_change_7D_percent": 4.582622941582785,
+    "price_change_30D_percent": 34.42168208511316,
+    "price_change_90D_percent": 6.809860405994257,
+    "price_change_180D_percent": 824.529276980274,
+    "price_change_365D_percent": 949.8849074279962,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 626299,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 22193866
+  },
+  {
     "symbol": "RCN",
     "display_symbol": "RCN",
     "name": "Ripio Credit Network",
@@ -7425,7 +7450,7 @@
     "market_cap_usd": 20678907
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6881934
-  },
-  {
-    "symbol": "EVX",
-    "display_symbol": "EVX",
-    "name": "Everex",
-    "aliases": "",
-    "shortname": "everex",
-    "last_price_usd": 0.2991086665052265,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 4.087729589807026,
-    "price_change_7D_percent": 6.933522240794958,
-    "price_change_30D_percent": 31.261639339857417,
-    "price_change_90D_percent": -3.708102470510171,
-    "price_change_180D_percent": 29.318657337585496,
-    "price_change_365D_percent": 9.538519019128392,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 1068464,
-    "display": "true",
-    "trading_since": "2017-10-10 16:25:00",
-    "supply": 22699999,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6789767
   }
 ]

@@ -7700,6 +7700,31 @@
     "market_cap_usd": 16823497
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.18307676723076927,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.732978179901609,
+    "price_change_7D_percent": -7.773022216084144,
+    "price_change_30D_percent": -5.562132988498588,
+    "price_change_90D_percent": -10.554598973256372,
+    "price_change_180D_percent": 762.1815734648777,
+    "price_change_365D_percent": 699.6351318022752,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 542029,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 16723950
+  },
+  {
     "symbol": "DENT",
     "display_symbol": "DENT",
     "name": "Dent",
@@ -7850,7 +7875,7 @@
     "market_cap_usd": 16200282
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6284930
-  },
-  {
-    "symbol": "HAKKA",
-    "display_symbol": "HAKKA",
-    "name": "Hakka Finance",
-    "aliases": "",
-    "shortname": "hakka-finance",
-    "last_price_usd": 0.04685932342361113,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -11.139788485876856,
-    "price_change_7D_percent": 13.08847148423102,
-    "price_change_30D_percent": 18.69936785003111,
-    "price_change_90D_percent": -49.7764642599048,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 461342,
-    "display": "true",
-    "trading_since": "2020-08-19 12:55:00",
-    "supply": 133310033,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6246818
   }
 ]

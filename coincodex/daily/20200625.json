@@ -7400,31 +7400,6 @@
     "market_cap_usd": 9141722
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.00031456270722433465,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -2.0853015538144968,
-    "price_change_7D_percent": -20.51856703758041,
-    "price_change_30D_percent": 190.36837957111067,
-    "price_change_90D_percent": 163.98198586470738,
-    "price_change_180D_percent": 76.74633882062666,
-    "price_change_365D_percent": -29.66922480147747,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 17651,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28684549215,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 9023089
-  },
-  {
     "symbol": "ITC",
     "display_symbol": "ITC",
     "name": "IoT Chain",
@@ -8575,7 +8550,7 @@
     "market_cap_usd": 7199919
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3388728
+  },
+  {
+    "symbol": "SNC",
+    "display_symbol": "SNC",
+    "name": "SunContract",
+    "aliases": "",
+    "shortname": "suncontract",
+    "last_price_usd": 0.027482002715867176,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -0.8102340626978236,
+    "price_change_7D_percent": 2.2072701550221527,
+    "price_change_30D_percent": 20.677767451786487,
+    "price_change_90D_percent": 74.62426119220505,
+    "price_change_180D_percent": 63.26719087654088,
+    "price_change_365D_percent": -38.18216733696855,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 608305,
+    "display": "true",
+    "trading_since": "2017-08-14 00:09:21",
+    "supply": 122707502,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3372248
   }
 ]

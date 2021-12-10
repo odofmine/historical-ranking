@@ -5475,7 +5475,7 @@
     "market_cap_usd": 24013256
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6573,6 +6573,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 17435723
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19076290858695652,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 6.808520631554689,
+    "price_change_7D_percent": 2.921848980339429,
+    "price_change_30D_percent": -18.266965662536176,
+    "price_change_90D_percent": 456.48524668269124,
+    "price_change_180D_percent": 638.531487192632,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 353091,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17426074
   },
   {
     "symbol": "CND",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5284004
-  },
-  {
-    "symbol": "MOAC",
-    "display_symbol": "MOAC",
-    "name": "MOAC",
-    "aliases": "",
-    "shortname": "moac",
-    "last_price_usd": 0.08390334622614845,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -1.1989849501295373,
-    "price_change_7D_percent": -5.787542121668249,
-    "price_change_30D_percent": -11.014165718845907,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 20776,
-    "display": "true",
-    "trading_since": "2020-07-14 14:05:00",
-    "supply": 62463333,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5240883
   }
 ]

@@ -8550,7 +8550,7 @@
     "market_cap_usd": 5492033
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -10775,31 +10775,6 @@
     "market_cap_usd": 3722696
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0001299825098814228,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -3.3261260709782317,
-    "price_change_7D_percent": -14.676189100291062,
-    "price_change_30D_percent": -17.7182538904406,
-    "price_change_90D_percent": -57.54913218438868,
-    "price_change_180D_percent": -56.11239227701932,
-    "price_change_365D_percent": -75.78630966884062,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5644.58,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28598649676,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 3717324
-  },
-  {
     "symbol": "LND",
     "display_symbol": "LND",
     "name": "Lendingblock",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 2727855
+  },
+  {
+    "symbol": "EDR2",
+    "display_symbol": "EDR",
+    "name": "Endor Protocol",
+    "aliases": "",
+    "shortname": "endor-protocol",
+    "last_price_usd": 0.003493799512280703,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 1.7261221860794558,
+    "price_change_7D_percent": 7.181428865725183,
+    "price_change_30D_percent": -42.52907706356929,
+    "price_change_90D_percent": -78.81290178259611,
+    "price_change_180D_percent": -89.57867436957831,
+    "price_change_365D_percent": -93.7440108927052,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 1343372,
+    "display": "true",
+    "trading_since": "2018-05-31 22:10:00",
+    "supply": 779310542,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 2722755
   }
 ]

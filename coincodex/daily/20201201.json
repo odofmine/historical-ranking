@@ -7275,6 +7275,31 @@
     "market_cap_usd": 20553849
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.22485982680208322,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": -2.6532510125823117,
+    "price_change_7D_percent": -13.704253642311642,
+    "price_change_30D_percent": 24.734818663307347,
+    "price_change_90D_percent": -13.244886061036967,
+    "price_change_180D_percent": 866.8249589219339,
+    "price_change_365D_percent": 866.1591389955511,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 495149,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 20540806
+  },
+  {
     "symbol": "GNY",
     "display_symbol": "GNY",
     "name": "GNY",
@@ -7400,7 +7425,7 @@
     "market_cap_usd": 19452921
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6739444
-  },
-  {
-    "symbol": "WING2",
-    "display_symbol": "WING",
-    "name": "Wing",
-    "aliases": "",
-    "shortname": "wing",
-    "last_price_usd": 10.32,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 3.125821261639959,
-    "price_change_7D_percent": -7.5286913499332515,
-    "price_change_30D_percent": 14.566567938004315,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 3642245,
-    "display": "true",
-    "trading_since": "2020-09-17 07:05:00",
-    "supply": 650090,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6710332
   }
 ]

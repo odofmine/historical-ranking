@@ -5400,7 +5400,7 @@
     "market_cap_usd": 27024377
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6473,6 +6473,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 21076872
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.23052891073263876,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 1.1669765965705277,
+    "price_change_7D_percent": -5.116409046057562,
+    "price_change_30D_percent": 12.628987176444667,
+    "price_change_90D_percent": 624.4763203209363,
+    "price_change_180D_percent": 1067.3487082075847,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 2165335,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349383,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 21058674
   },
   {
     "symbol": "DIA",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5746057
-  },
-  {
-    "symbol": "MOAC",
-    "display_symbol": "MOAC",
-    "name": "MOAC",
-    "aliases": "",
-    "shortname": "moac",
-    "last_price_usd": 0.09187148595094345,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": 4.752327721189874,
-    "price_change_7D_percent": -9.611843131109445,
-    "price_change_30D_percent": -31.970061703938917,
-    "price_change_90D_percent": null,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 504672,
-    "display": "true",
-    "trading_since": "2020-07-14 14:05:00",
-    "supply": 62463333,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5738599
   }
 ]

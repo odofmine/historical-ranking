@@ -8025,31 +8025,6 @@
     "market_cap_usd": 8140868
   },
   {
-    "symbol": "ECA",
-    "display_symbol": "ECA",
-    "name": "Electra",
-    "aliases": "",
-    "shortname": "electra",
-    "last_price_usd": 0.0002836845901639344,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -3.840861576302502,
-    "price_change_7D_percent": -26.893964170174183,
-    "price_change_30D_percent": 78.37214253672425,
-    "price_change_90D_percent": 132.82599111607968,
-    "price_change_180D_percent": 52.99583529074779,
-    "price_change_365D_percent": -8.470101217842227,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 5069.17,
-    "display": "true",
-    "trading_since": "2017-07-02 02:05:00",
-    "supply": 28685823192,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 8137726
-  },
-  {
     "symbol": "DMT",
     "display_symbol": "DMT",
     "name": "DMarket",
@@ -9325,7 +9300,7 @@
     "market_cap_usd": 6258139
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12498,5 +12473,30 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 3349743
+  },
+  {
+    "symbol": "CNHT",
+    "display_symbol": "CNHT",
+    "name": "Tether Chinese Yuan",
+    "aliases": "",
+    "shortname": "tether-chinese-yuan",
+    "last_price_usd": 0.14212743471982758,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 0.2016648111049391,
+    "price_change_7D_percent": -1.5361875969193242,
+    "price_change_30D_percent": 0.8386963926608667,
+    "price_change_90D_percent": -79.51418912323724,
+    "price_change_180D_percent": null,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 915.03,
+    "display": "true",
+    "trading_since": "2020-01-27 14:15:00",
+    "supply": 23533468,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 3344751
   }
 ]

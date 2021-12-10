@@ -7075,6 +7075,31 @@
     "market_cap_usd": 21287993
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.23050798633333336,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 2.511857992411214,
+    "price_change_7D_percent": -4.690344829228898,
+    "price_change_30D_percent": 27.86509604991128,
+    "price_change_90D_percent": -11.278928962364066,
+    "price_change_180D_percent": 788.1541997646242,
+    "price_change_365D_percent": 879.0036645039004,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 497959,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 21056762
+  },
+  {
     "symbol": "WOM",
     "display_symbol": "WOM",
     "name": "WOM Protocol",
@@ -7225,7 +7250,7 @@
     "market_cap_usd": 20605141
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 6737405
-  },
-  {
-    "symbol": "DUN",
-    "display_symbol": "DUN",
-    "name": "Dune Network",
-    "aliases": "",
-    "shortname": "dune-network",
-    "last_price_usd": 0.018559374152777773,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -3.228784279285404,
-    "price_change_7D_percent": 0.18524825467698816,
-    "price_change_30D_percent": -1.9195814108615816,
-    "price_change_90D_percent": 52.62395834439489,
-    "price_change_180D_percent": 36.92928105499222,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 131606,
-    "display": "true",
-    "trading_since": "2020-05-04 13:40:00",
-    "supply": 361906152,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 6716752
   }
 ]

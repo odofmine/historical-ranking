@@ -5800,7 +5800,7 @@
     "market_cap_usd": 22487374
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -6948,6 +6948,31 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 17941405
+  },
+  {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.19461339533916103,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 1.474961700301725,
+    "price_change_7D_percent": -3.1917159190145505,
+    "price_change_30D_percent": -4.393409846713832,
+    "price_change_90D_percent": 534.7900674387505,
+    "price_change_180D_percent": 674.4445188260684,
+    "price_change_365D_percent": null,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 560997,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 91349382,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 17777814
   },
   {
     "symbol": "CELR",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 5404204
-  },
-  {
-    "symbol": "MTA3",
-    "display_symbol": "MTA",
-    "name": "Meta",
-    "aliases": "",
-    "shortname": "meta",
-    "last_price_usd": 1.5779587250312503,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -4.023072060212049,
-    "price_change_7D_percent": -42.44756976938163,
-    "price_change_30D_percent": -47.695192744390106,
-    "price_change_90D_percent": -58.05184441860226,
-    "price_change_180D_percent": null,
-    "price_change_365D_percent": null,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 2055269,
-    "display": "true",
-    "trading_since": "2020-07-20 07:50:00",
-    "supply": 3422051,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 5399855
   }
 ]

@@ -7825,6 +7825,31 @@
     "market_cap_usd": 19835146
   },
   {
+    "symbol": "NWC",
+    "display_symbol": "NWC",
+    "name": "Newscrypto",
+    "aliases": "",
+    "shortname": "newscrypto",
+    "last_price_usd": 0.20542403057839725,
+    "price_change_1H_percent": null,
+    "price_change_1D_percent": 3.785167207690223,
+    "price_change_7D_percent": -4.635042306671009,
+    "price_change_30D_percent": -4.446931181269456,
+    "price_change_90D_percent": -1.5011822729975062,
+    "price_change_180D_percent": 569.535052530198,
+    "price_change_365D_percent": 557.2325667982743,
+    "price_change_YTD_percent": null,
+    "volume_24_usd": 242008,
+    "display": "true",
+    "trading_since": "2019-11-06 13:30:00",
+    "supply": 96218871,
+    "last_update": null,
+    "ico_end": null,
+    "include_supply": "true",
+    "use_volume": "true",
+    "market_cap_usd": 19765668
+  },
+  {
     "symbol": "RFR",
     "display_symbol": "RFR",
     "name": "Refereum",
@@ -8425,7 +8450,7 @@
     "market_cap_usd": 15968994
   },
   {
-    "symbol": "BLZL",
+    "symbol": "BLZ",
     "display_symbol": "BLZ",
     "name": "Bluzelle",
     "aliases": "",
@@ -12473,30 +12498,5 @@
     "include_supply": "true",
     "use_volume": "true",
     "market_cap_usd": 7443951
-  },
-  {
-    "symbol": "SNTVT",
-    "display_symbol": "SNTVT",
-    "name": "Sentivate",
-    "aliases": "",
-    "shortname": "sentivate",
-    "last_price_usd": 0.002165400755244757,
-    "price_change_1H_percent": null,
-    "price_change_1D_percent": -12.669935408928845,
-    "price_change_7D_percent": -20.712176627110313,
-    "price_change_30D_percent": -44.56739940074391,
-    "price_change_90D_percent": -65.54591357491415,
-    "price_change_180D_percent": 49.682793574568095,
-    "price_change_365D_percent": 170.82870476251702,
-    "price_change_YTD_percent": null,
-    "volume_24_usd": 89205,
-    "display": "true",
-    "trading_since": "2019-01-08 12:35:00",
-    "supply": 3428244537,
-    "last_update": null,
-    "ico_end": null,
-    "include_supply": "true",
-    "use_volume": "true",
-    "market_cap_usd": 7423523
   }
 ]
