@@ -14,26 +14,22 @@ volumns = []
 gainers_vs_losers = {'gainers': [], 'losers': []}
 turnovers = []
 
-start_date = datetime.date(2019, 12, 31)
-
 for json_file in json_files:
     dt_string = json_file[-23:-15]
-    print(dt_string)
-    dt = datetime.datetime.strptime(dt_string, '%Y%m%d').date()
-    if dt < start_date:
-        continue
-
-    dt += datetime.timedelta(days=1)
+    dt = datetime.datetime.strptime(dt_string, '%Y%m%d').date() - datetime.timedelta(days=1)
+    print(dt)
     ts = calendar.timegm(dt.timetuple())
 
     with open(json_file, 'r', encoding='utf-8') as f:
         statistic = json.load(f)
 
-        market_caps.append([ts, statistic['market_cap']['close']])
+        market_caps.append([ts, statistic['market_cap']['open']])
         volumns.append([ts, statistic['volume']])
         gainers_vs_losers['gainers'].append([ts, statistic['gainers_percent']])
         gainers_vs_losers['losers'].append([ts, statistic['losers_percent']])
-        turnovers.append([ts, round(statistic['volume'] / statistic['market_cap']['close'], 6)])
+        turnovers.append([ts, round(statistic['volume'] / statistic['market_cap']['open'], 6)])
+
+market_caps.append([ts + 60 * 60 * 24, statistic['market_cap']['close']])
 
 write_json('market_caps', market_caps)
 write_json('volumns', volumns)
