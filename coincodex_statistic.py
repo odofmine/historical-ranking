@@ -14,9 +14,14 @@ volumns = []
 gainers_vs_losers = {'gainers': [], 'losers': []}
 turnovers = []
 
+start_date = datetime.date(2020, 1, 1)
+
 for json_file in json_files:
     dt_string = json_file[-23:-15]
     dt = datetime.datetime.strptime(dt_string, '%Y%m%d').date() - datetime.timedelta(days=1)
+    if dt < start_date:
+        continue
+
     print(dt)
     ts = calendar.timegm(dt.timetuple())
 
